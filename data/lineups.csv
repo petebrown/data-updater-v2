@@ -9164,3 +9164,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2024-11-22,Tranmere Rovers,away,4-4-2,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Midfielder,8,False,1,48,0,,,,,,,,,,,
 2024-11-22,Tranmere Rovers,away,4-4-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Defender,3,False,0,,0,,,,,,,,,,,
 2024-11-22,Tranmere Rovers,away,4-4-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,11,False,0,,0,,2.0,70.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Defender,2,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Bradshaw,Zak Dominic,Z. Bradshaw,3,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-d5ez41xiwizwfjey00yom0hyh,C. Wood
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,1,73,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,6,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Morris,Kieron,K. Morris,7,Substitute,,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Hawkes,Joshua Stuart,J. Hawkes,11,Midfielder,11,False,1,49,0,,2.0,68.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,1,74,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,2.0,79.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Merrie,Christopher Francis,C. Merrie,16,Midfielder,8,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Finley,Samuel Joseph,S. Finley,17,Midfielder,4,False,1,55,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Striker,10,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Taylor,Samuel David,S. Taylor,20,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Defender,3,False,0,,0,,2.0,79.0,Tactical,s-6djkebstplayojjus0q6c3vh0,Z. Bradshaw,,,,,
+2024-11-26,Tranmere Rovers,home,4-4-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,7,False,0,,0,,2.0,68.0,Tactical,s-42rr7g3qbbn9dyvkxiyvbhdlg,S. Taylor,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Goodman,Owen Olamidayo,O. Goodman,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Biler,Huseyin,H. Biler,2,Substitute,,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Byrne Furlong,Walter James,J. Furlong,3,Substitute,,False,0,,0,,,69.0,Injury,,,2.0,,,s-7m6ygmwm5tyfoov7og57q4z55,C. Maycock
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,O'Toole,John Joseph,J. O'Toole,5,Substitute,,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Johnson,Ryan Anthony,R. Johnson,6,Defender,4,True,0,,0,,2.0,84.0,Injury,s-1zgh3kge79qnhouzntk3uinoq,I. Ogundere,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Tilley,James Alexander David,J. Tilley,7,Midfielder,3,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Maycock,Callum,C. Maycock,8,Midfielder,7,False,0,,0,,2.0,69.0,Injury,s-e7dz8u1uz579dl68v1p40fq7e,J. Furlong,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Chaaban,Omar Khaled,Omar Bugiel,9,Striker,10,False,1,45+2,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Kelly,Joshua Anthony,J. Kelly,10,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-es83awo143gzdm1ohwqwpmjf9,M. Stevens
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Neufville,Joshua Tyler,J. Neufville,11,Midfielder,2,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Stevens,Mathew Antony,M. Stevens,14,Striker,9,False,0,,0,,2.0,80.0,Tactical,s-cvu08314z4o4mehylkjlpr5d5,J. Kelly,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Ball,James Cameron,J. Ball,16,Midfielder,11,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Hippolyte,Myles Elliot Zach,M. Hippolyte,21,Midfielder,8,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Ward,Lewis Moore,L. Ward,22,Substitute,,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Harbottle,Riley-Jay,R. Harbottle,26,Defender,6,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Lewis,Joe Cameron,J. Lewis,31,Defender,5,False,0,,0,,,,,,,,,,,
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Foloronso Olushore Ogundere,Isaac Ifeoluwa,I. Ogundere,33,Substitute,,False,0,,0,,,84.0,Injury,,,2.0,,,s-2qextee2e4nxqg43icsnst7th,R. Johnson
+2024-11-26,AFC Wimbledon,away,3-5-2,Johnnie Jackson,Pigott,Joseph David Wozencroft,J. Pigott,39,Substitute,,False,0,,0,,,,,,,,,,,
