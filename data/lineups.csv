@@ -9487,3 +9487,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-01-04,Carlisle United,away,3-4-2-1,Mike Williamson,Mathurin-Harris,Kadeem Raymond,K. Harris,40,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
 2025-01-04,Carlisle United,away,3-4-2-1,Mike Williamson,Whelan,Callum Tyler,C. Whelan,43,Midfielder,8,False,0,,0,,,,,,,,,,,
 2025-01-04,Carlisle United,away,3-4-2-1,Mike Williamson,Embleton,Elliot John,E. Embleton,44,Attacking Midfielder,10,False,0,,0,,2.0,79.0,Tactical,s-dj01eznbjpzm4tml8wllhk3ys,A. Dudik,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Simkin,Tommy James,T. Simkin,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Barrett,Connor Ellis,C. Barrett,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Gordon,Liam Spencer,L. Gordon,3,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,McEntee,Oisin Michael,O. McEntee,4,Midfielder,7,False,1,29,0,,2.0,68.0,Tactical,s-dqk7nicp3ufef4hyus1begdii,C. Lakin,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Daniels,Donervon Joseph,D. Daniels,5,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-4dt38s8ma1vwe11k41xw6e0yy,H. Williams
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Lowe,Nathan Alexander,N. Lowe,7,Striker,9,False,0,,0,,2.0,85.0,Tactical,s-c48kgttvjxlvloxi1mj5bv0t1,D. Johnson,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Lakin,Charlie James,C. Lakin,8,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-8iazetrjur71kb2xfez7hromi,O. McEntee
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Matt,Jamille Antonio,J. Matt,9,Striker,10,True,0,,0,,2.0,75.0,Tactical,s-1r8owdjpmvjknnwqqouyplsk5,A. Adomah,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Hornby,Samuel Connor,S. Hornby,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Comley,Brandon,B. Comley,14,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-8wjsdbcryx91n3fucszn224fd,R. Stirk
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Allen,Taylor Ellis,T. Allen,21,Defender,4,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Jellis,Jamie Ryan,J. Jellis,22,Midfielder,8,False,1,45+2,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Williams,Harry,H. Williams,24,Defender,5,False,0,,0,,2.0,85.0,Tactical,s-30j93acpgxv7yna9jty1r42j9,D. Daniels,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Stirk,Ryan William,R. Stirk,25,Midfielder,11,False,0,,0,,2.0,85.0,Tactical,s-9k3e6mofpjtwmse223ortw6ax,B. Comley,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Okagbue,David Chukwudubem,D. Okagbue,26,Defender,6,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Weir,Evan Robert,E. Weir,30,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Adomah,Albert Danquah,A. Adomah,37,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-8rjkn8s6e4s60167zdyukj9w5,J. Matt
+2025-01-11,Walsall,home,3-5-2,Mat Sadler,Johnson,Daniel,D. Johnson,39,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-88llk7uinnhsg3xcipf05d9g4,N. Lowe
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Bradshaw,Zak Dominic,Z. Bradshaw,3,Midfielder,3,False,0,,0,,2.0,85.0,Tactical,s-d5ez41xiwizwfjey00yom0hyh,C. Wood,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,1,23,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,4,False,1,22,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Morris,Kieron,K. Morris,7,Midfielder,8,False,0,,0,,2.0,85.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Attacking Midfielder,11,False,1,29,0,,2.0,69.0,Tactical,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Finley,Samuel Joseph,S. Finley,17,Midfielder,7,False,1,29,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Saunders,Harvey Read,H. Saunders,19,Striker,9,False,0,,0,,2.0,69.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Solomon,Sol,S. Solomon,21,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-3gffyf2cg2ur4q1oobe8yoy51,K. Morris
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,2.0,69.0,Tactical,s-7eoemsnpewyo0wk9dy4gyy57t,S. Khan,,,,,
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-6djkebstplayojjus0q6c3vh0,Z. Bradshaw
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Khan,Saidou,S. Khan,28,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Drysdale,Declan Raymond,D. Drysdale,35,Substitute,,False,0,,0,,,,,,,,,,,
