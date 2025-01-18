@@ -9523,3 +9523,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Khan,Saidou,S. Khan,28,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor
 2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
 2025-01-11,Tranmere Rovers,away,3-4-2-1,Nigel Adkins,Drysdale,Declan Raymond,D. Drysdale,35,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Goodman,Owen Olamidayo,O. Goodman,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Biler,Huseyin,H. Biler,2,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Byrne Furlong,Walter James,J. Furlong,3,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Reeves,Jake Kenny,J. Reeves,4,Midfielder,8,True,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Johnson,Ryan Anthony,R. Johnson,6,Defender,4,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Tilley,James Alexander David,J. Tilley,7,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Kelly,Joshua Anthony,J. Kelly,10,Striker,11,False,0,,0,,2.0,83.0,Tactical,s-c06id9z5hq6igpsaqqn5ysk4,A. Sasu,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Neufville,Joshua Tyler,J. Neufville,11,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Smith,Alistair Oluwashaun,A. Smith,12,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Stevens,Mathew Antony,M. Stevens,14,Striker,10,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Browne,Marcus,M. Browne,18,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-41cihaqh4lxje5nx17g0rbgt1,J. Pigott
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Ward,Lewis Moore,L. Ward,22,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Harbottle,Riley-Jay,R. Harbottle,26,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Sasu,Aron Kwame Jolle,A. Sasu,29,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-cvu08314z4o4mehylkjlpr5d5,J. Kelly
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Lewis,Joe Cameron,J. Lewis,31,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-1zgh3kge79qnhouzntk3uinoq,I. Ogundere
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Foloronso Olushore Ogundere,Isaac Ifeoluwa,I. Ogundere,33,Defender,6,False,0,,0,,2.0,83.0,Tactical,s-2ktftl9vtcyotdcnyd9cxlomh,J. Lewis,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Pigott,Joseph David Wozencroft,J. Pigott,39,Striker,9,False,0,,0,,2.0,64.0,Tactical,s-8g19rw3eni5p8jt5v1j9skwdl,M. Browne,,,,,
+2025-01-18,AFC Wimbledon,home,3-4-3,Johnnie Jackson,Hutchinson,Samuel Edward,S. Hutchinson,41,Defender,5,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Wing Back,2,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Bradshaw,Zak Dominic,Z. Bradshaw,3,Wing Back,3,False,0,,0,,2.0,83.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,4,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Morris,Kieron,K. Morris,7,Midfielder,11,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,2.0,72.0,Tactical,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Merrie,Christopher Francis,C. Merrie,16,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-7eoemsnpewyo0wk9dy4gyy57t,S. Khan
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Saunders,Harvey Read,H. Saunders,19,Striker,10,False,0,,0,,2.0,72.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Solomon,Sol,S. Solomon,21,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-6djkebstplayojjus0q6c3vh0,Z. Bradshaw
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Khan,Saidou,S. Khan,28,Midfielder,8,False,1,35,0,,2.0,73.0,Tactical,s-c9yuyh2p038inq1kj79sjofe,C. Merrie,,,,,
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Drysdale,Declan Raymond,D. Drysdale,35,Defender,6,False,1,59,0,,,,,,,,,,,
