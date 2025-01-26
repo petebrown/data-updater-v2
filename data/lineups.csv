@@ -9559,3 +9559,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Khan,Saidou,S. Khan,28,Midfielder,8,False,1,35,0,,2.0,73.0,Tactical,s-c9yuyh2p038inq1kj79sjofe,C. Merrie,,,,,
 2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
 2025-01-18,Tranmere Rovers,away,5-3-2,Nigel Adkins,Drysdale,Declan Raymond,D. Drysdale,35,Defender,6,False,1,59,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Defender,2,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Bradshaw,Zak Dominic,Z. Bradshaw,3,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,6,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Morris,Kieron,K. Morris,7,Midfielder,7,False,0,,0,,2.0,46.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Striker,9,False,0,,0,,2.0,78.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Hawkes,Joshua Stuart,J. Hawkes,11,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-7eoemsnpewyo0wk9dy4gyy57t,S. Khan
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Substitute,,False,0,,0,,,78.0,Tactical,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Finley,Samuel Joseph,S. Finley,17,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-3gffyf2cg2ur4q1oobe8yoy51,K. Morris
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Midfielder,10,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Solomon,Sol,S. Solomon,21,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Defender,3,False,0,,0,,,,,,,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Khan,Saidou,S. Khan,28,Defensive Midfielder,4,False,0,,0,,2.0,79.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
+2025-01-25,Tranmere Rovers,home,4-1-4-1,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,11,False,0,,0,,2.0,79.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Morris,Glenn James,G. Morris,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Hutton,Remeao Andrew,R. Hutton,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Clark,Max Oliver,M. Clark,3,Substitute,,False,0,,0,,,58.0,Tactical,,,2.0,,,s-10ak89g8v3k5vx9vyo0m6rofe,N. Khumbeni
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Ehmer,Maximilian Andreas,M. Ehmer,5,Defender,5,True,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Coleman,Ethan Jay,E. Coleman,6,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Nolan,Jack Daniel,J. Nolan,7,Midfielder,3,False,0,,0,,2.0,81.0,Tactical,s-2zl9idnu0za8us0trstebmkus,J. Clarke,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Little,Armani George,A. Little,8,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Williams,Jonathan Peter,J. Williams,10,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Hawkins,Oliver Jack,O. Hawkins,12,Substitute,,False,0,,0,,,73.0,Injury,,,2.0,,,s-5c1wh9blcw96fkblothh6drf8,J. Morgan
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,McKenzie,Robbie,R. McKenzie,14,Defender,6,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Khumbeni,Nelson Wilfred,N. Khumbeni,16,Midfielder,7,False,0,,0,,2.0,58.0,Tactical,s-atasgsvt4ddgbvlbj9j0uisx5,M. Clark,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Clarke,Jayden,J. Clarke,17,Substitute,,False,0,,0,,,81.0,Tactical,,,2.0,,,s-1vigb3e3dsxufbtvt4ed48e09,J. Nolan
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Morgan,Jimmy-Jay,J. Morgan,19,Striker,11,False,0,,0,,2.0,73.0,Injury,s-8iip709oho08vapdxmbemyz85,O. Hawkins,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Nevitt,Elliott Lloyd,E. Nevitt,20,Striker,10,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Ogie,Shadrach Nosa,S. Ogie,22,Defender,4,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Dack,Bradley Paul,B. Dack,23,Attacking Midfielder,9,False,1,10,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Turner,Jake Edward,J. Turner,25,Substitute,,False,0,,0,,,,,,,,,,,
+2025-01-25,Gillingham,away,3-4-1-2,John Coleman,Gbode,Joseph,J. Gbode,29,Substitute,,False,0,,0,,,,,,,,,,,
