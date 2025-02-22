@@ -9775,3 +9775,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-02-15,Milton Keynes Dons,away,4-1-2-1-2,Scott Lindsey,Waller,Charlie James O'Meara,C. Waller,35,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-csw6i5ceobus79rw3y5uaczu2,D. Orsi
 2025-02-15,Milton Keynes Dons,away,4-1-2-1-2,Scott Lindsey,Williams,Jay,J. Williams,42,Defensive Midfielder,4,False,1,61,0,,2.0,81.0,Tactical,s-96cdjgpkpcic23h6x5k3nnlrd,C. Hendry,,,,,
 2025-02-15,Milton Keynes Dons,away,4-1-2-1-2,Scott Lindsey,Patterson,Travis,T. Patterson,66,Defender,3,False,1,75,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Bass,Alexander Michael,A. Bass,1,Goalkeeper,1,False,1,90+6,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Gordon,Kellan Sheene,K. Gordon,2,Midfielder,2,False,0,,0,,2.0,72.0,Tactical,s-8dee5fk86zmtn6y54pe8vi6ll,N. Tsaroulla,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Bedeau,Jacob Mitchell,J. Bedeau,4,Defender,4,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Platt,Matthew James,M. Platt,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Hinchy,Jack Samuel Lawrence,J. Hinchy,6,Substitute,,False,0,,0,,,86.0,Tactical,,,2.0,,,s-dwinl6ddyavn9agb1en4eojdg,G. Abbott
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Traoré,Maï,M. Traoré,7,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-9mgcugydtvdr5wk7qii9wpd2i,C. Grant
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Grant,Conor Michael,C. Grant,11,Attacking Midfielder,11,False,0,,0,,2.0,67.0,Tactical,s-859iih7ovl4iq8jintdeh402y,M. Traoré,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Whitaker,Charlie Jay,C. Whitaker,16,Attacking Midfielder,10,False,0,,0,,2.0,86.0,Tactical,s-9c1mabzkbeq1fge6mlvj3bv1l,C. Edwards,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Palmer,Matthew Thomas,M. Palmer,18,Midfielder,8,True,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Slocombe,Sam Oliver,S. Slocombe,21,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Edwards,Curtis Garry,C. Edwards,22,Substitute,,False,0,,0,,,86.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Cundy,Robbie David,R. Cundy,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Tsaroulla,Nicholas Andrew,N. Tsaroulla,25,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-7vf1idmn0uljqd13jp7q2wfl5,K. Gordon
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Johnson,Zak Robert,Z. Johnson,27,Defender,6,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Jatta,Alassana,A. Jatta,29,Striker,9,False,1,84,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Abbott,George Benedict,G. Abbott,33,Midfielder,7,False,0,,0,,2.0,86.0,Tactical,s-bz6twg6qq6op1xcsbq6s5jis,J. Hinchy,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Jarvis,William Robert,W. Jarvis,36,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-02-22,Notts County,home,3-4-2-1,Stuart Maynard,Cisse Kane,Madou,M. Cisse,44,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,1,66,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,4,False,1,90+6,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Striker,10,False,0,,0,,2.0,87.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Hawkes,Joshua Stuart,J. Hawkes,11,Substitute,,False,0,,0,,,86.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Mather,Samuel,S. Mather,12,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-7hhg47hss3k3k1axi8g3s72wa,J. Garrett
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Garrett,Jake Joseph,J. Garrett,15,Midfielder,8,False,0,,0,,2.0,87.0,Tactical,s-b6uguvr00hez2m8z4k6x7xic4,S. Mather,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Merrie,Christopher Francis,C. Merrie,16,Midfielder,11,False,1,90+8,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Finley,Samuel Joseph,S. Finley,17,Midfielder,7,False,0,,0,,2.0,79.0,Injury,s-9et0d2wlllylnwyu1xglgb8yc,J. Williams,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Striker,9,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,1,52,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Williams,Joshua James,J. Williams,24,Substitute,,False,0,,0,,,79.0,Injury,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,0,,0,,2.0,86.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
