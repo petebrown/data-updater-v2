@@ -9811,3 +9811,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Substitute,,False,0,,0,,,,,,,,,,,
 2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Williams,Joshua James,J. Williams,24,Substitute,,False,0,,0,,,79.0,Injury,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
 2025-02-22,Tranmere Rovers,away,3-5-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,0,,0,,2.0,86.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Turnbull,Jordan Robert,J. Turnbull,6,Defender,4,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Hendry,Regan,R. Hendry,8,Substitute,,False,0,,0,,,63.0,Tactical,,,2.0,,,s-c9yuyh2p038inq1kj79sjofe,C. Merrie
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Davison,Joshua Michael Blainey,J. Davison,10,Striker,9,False,0,,0,,2.0,52.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Hawkes,Joshua Stuart,J. Hawkes,11,Substitute,,False,0,,0,,,63.0,Tactical,,,2.0,,,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Mather,Samuel,S. Mather,12,Substitute,,False,0,,0,,,91.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Dennis,Kristian,K. Dennis,14,Substitute,,False,0,,0,,,52.0,Tactical,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Garrett,Jake Joseph,J. Garrett,15,Midfielder,8,False,0,,0,,2.0,53.0,Tactical,s-d5ez41xiwizwfjey00yom0hyh,C. Wood,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Merrie,Christopher Francis,C. Merrie,16,Midfielder,11,False,0,,0,,2.0,63.0,Tactical,s-693vankfkq50hufuwcz7hu8r9,R. Hendry,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Finley,Samuel Joseph,S. Finley,17,Midfielder,7,False,0,,0,,2.0,91.0,Tactical,s-b6uguvr00hez2m8z4k6x7xic4,S. Mather,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Jennings,Connor Joseph,C. Jennings,18,Striker,10,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,2.0,63.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Wood,Connor Oliver,C. Wood,23,Substitute,,False,1,90+2,0,,,53.0,Tactical,,,2.0,,,s-7hhg47hss3k3k1axi8g3s72wa,J. Garrett
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Jackson,Louis,L. Jackson,26,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Tranmere Rovers,home,3-5-2,Nigel Adkins,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Kelly,Michael Sean,M. Kelly,1,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Love,Donald Alistair,D. Love,2,Defender,2,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Grant,Conor James,C. Grant,4,Midfielder,10,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Coyle,Liam Christopher,L. Coyle,6,Defensive Midfielder,4,False,1,14,0,,2.0,87.0,Injury,s-1cf8mr9jdz0h0o4bzn1dcjsb8,C. O'Brien,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Whalley,Shaun James,S. Whalley,7,Midfielder,7,True,0,,0,,2.0,77.0,Tactical,s-dbtmfmihfbxgujp62tu8o63u1,T. Walton,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Henderson,Alex William,A. Henderson,10,Midfielder,8,False,0,,0,,2.0,46.0,Tactical,s-dqt255ktkxtoiq3p1h02atfkk,J. O'Brien-Whitmarsh,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Quirk,Sebastian Anthony,S. Quirk,12,Defender,3,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Crellin,William Francis,B. Crellin,13,Goalkeeper,1,False,1,90+7,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Ward,Benn David,B. Ward,14,Defender,6,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Matthews,Devon,D. Matthews,17,Defender,5,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Caton,Charlie George,C. Caton,18,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Brown,Charlie Daniel,C. Brown,20,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Walton,Tyler,T. Walton,23,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-7uhajc3suc68vemamuc3dyvp,S. Whalley
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Aljofree,Sonny,S. Aljofree,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,O'Brien,Connor David,C. O'Brien,38,Substitute,,False,0,,0,,,87.0,Injury,,,2.0,,,s-6ipjgy0ewyx7mnmolu0pp0mw9,L. Coyle
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Woods,Josh Stanley Ronald,J. Woods,39,Striker,9,False,1,56,0,,,,,,,,,,,
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,O'Brien-Whitmarsh,Joseph,J. O'Brien-Whitmarsh,43,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-vkag8cx29v1b5wetozm6rp5g,A. Henderson
+2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Hunter,Ashley Matthew,A. Hunter,45,Midfielder,11,False,0,,0,,,,,,,,,,,
