@@ -9847,3 +9847,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Woods,Josh Stanley Ronald,J. Woods,39,Striker,9,False,1,56,0,,,,,,,,,,,
 2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,O'Brien-Whitmarsh,Joseph,J. O'Brien-Whitmarsh,43,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-vkag8cx29v1b5wetozm6rp5g,A. Henderson
 2025-02-25,Accrington Stanley,away,4-1-4-1,John Doolan,Hunter,Ashley Matthew,A. Hunter,45,Midfielder,11,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,1,90+7,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Davies,Thomas Christopher,T. Davies,5,Substitute,,False,0,,0,,,81.0,Tactical,,,2.0,,,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,6,Defender,5,False,0,,0,,2.0,81.0,Tactical,s-9e5mebs52jf2y9omsjewv1sd1,T. Davies,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Hendry,Regan,R. Hendry,8,Midfielder,8,False,0,,0,,2.0,74.0,Tactical,s-7hhg47hss3k3k1axi8g3s72wa,J. Garrett,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Hawkes,Joshua Stuart,J. Hawkes,11,Striker,10,False,0,,0,,2.0,61.0,Tactical,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Mather,Samuel,S. Mather,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Garrett,Jake Joseph,J. Garrett,15,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-693vankfkq50hufuwcz7hu8r9,R. Hendry
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Merrie,Christopher Francis,C. Merrie,16,Midfielder,11,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Finley,Samuel Joseph,S. Finley,17,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,True,0,,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Defender,4,False,1,59,0,,,,,,,,,,,
+2025-03-01,Tranmere Rovers,home,3-5-2,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,1,90+2,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Clark,Mitchell Reece,M. Clark,2,Substitute,,False,0,,0,,,75.0,Injury,,,2.0,,,s-7ws1gtw5wppplxudz3w33fmy1,K. John
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Heneghan,Benjamin John,B. Heneghan,4,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Hall,Connor,C. Hall,5,Defender,4,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Smith,Nathan James,N. Smith,6,Defender,5,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Byers,George William,G. Byers,7,Midfielder,11,True,0,,0,,2.0,87.0,Injury,s-9c4e8u6uf1bhakzfa19i34oyy,R. Richards,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Chislett,Ethan Alexis,E. Chislett,10,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-ev42016zwnwiow3lbefukrbvt,R. Harper
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Curtis,Ronan,R. Curtis,11,Striker,9,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Amos,Benjamin Paul,B. Amos,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Croasdale,Ryan Mark,R. Croasdale,18,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Tolaj,Lorent,L. Tolaj,19,Substitute,,False,1,89,0,,,61.0,Tactical,,,2.0,,,s-5hilj5ir3b0i6x9fblova7ywa,A. Hackford
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Debrah,Jesse John Kodjo,J. Debrah,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,John,Kyle Alex,K. John,24,Midfielder,2,False,0,,0,,2.0,75.0,Injury,s-2asjeedy6igcuixqktdmk5k2x,M. Clark,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Scott Richards,Rico Dean,R. Richards,26,Substitute,,False,0,,0,,,87.0,Injury,,,2.0,,,s-6hrtxdf59nba5ietwyfe3b2t,G. Byers
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Hackford,Antwoine,A. Hackford,32,Striker,10,False,0,,0,,2.0,61.0,Tactical,s-aqajb3juen7k3mv3ji09skn6y,L. Tolaj,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Umolu,Jemiah,J. Umolu,37,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Broome,Nathan Lee,N. Broome,40,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Hart,Samuel James,S. Hart,42,Midfielder,3,False,1,58,0,,,,,,,,,,,
+2025-03-01,Port Vale,away,3-5-2,Darren Moore,Harper,Rekeem Jordan,R. Harper,45,Midfielder,8,False,0,,0,,2.0,75.0,Tactical,s-67tbjdi9c45t2idfmiwi260kq,E. Chislett,,,,,
