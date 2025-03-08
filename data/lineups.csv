@@ -9883,3 +9883,75 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-03-01,Port Vale,away,3-5-2,Darren Moore,Broome,Nathan Lee,N. Broome,40,Substitute,,False,0,,0,,,,,,,,,,,
 2025-03-01,Port Vale,away,3-5-2,Darren Moore,Hart,Samuel James,S. Hart,42,Midfielder,3,False,1,58,0,,,,,,,,,,,
 2025-03-01,Port Vale,away,3-5-2,Darren Moore,Harper,Rekeem Jordan,R. Harper,45,Midfielder,8,False,0,,0,,2.0,75.0,Tactical,s-67tbjdi9c45t2idfmiwi260kq,E. Chislett,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Wright,Jordan Ian,J. Wright,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Green,Kieran Thomas,K. Green,4,Substitute,,False,0,,0,,,81.0,Tactical,,,2.0,,,s-5ljs9rucykxc3yq87pf4bmmfo,J. Luker
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Rodgers,Harvey James,H. Rodgers,5,Defender,6,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Thompson,Curtis Liam,C. Thompson,6,Midfielder,7,False,0,,0,,2.0,58.0,Tactical,s-73nzgtk4yjwfhjnhywctle3je,E. Khouri,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Luker,Jayden,J. Luker,8,Attacking Midfielder,9,False,0,,0,,2.0,81.0,Tactical,s-4x6rka28bs12zoi2tdcg6kvyt,K. Green,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Obikwu,Justin Patrick Nnamdi,J. Obikwu,9,Striker,10,False,0,,0,,2.0,46.0,Tactical,s-a5vbecbg2t87wwzjqbv0xk4r8,L. Barrington,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Svanþórsson,Jason Daði,J. Svanþórsson,11,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Eastwood,Jake,J. Eastwood,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Barrington,Luca,L. Barrington,14,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-6w27tc2ri3dzrwh9bgoliyexg,J. Obikwu
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Ainley,Callum Thomas,C. Ainley,16,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,McJannet,Cameron,C. McJannet,17,Defender,4,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,O'Brien Burns,Darragh Francis,D. Burns,18,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,McEachran,George,G. McEachran,20,Midfielder,8,False,1,27,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Warren,Tyrell,T. Warren,21,Substitute,,False,0,,0,,,42.0,Injury,,,1.0,,,s-74x5iaolqfr7r3on2uuriooyy,D. Tharme
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Tharme,Douglas John,D. Tharme,24,Defender,5,False,0,,0,,1.0,42.0,Injury,s-5amllgqf3e12laxpfzsbqnl61,T. Warren,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Khouri,Evan Marley,E. Khouri,30,Substitute,,False,0,,0,,,58.0,Tactical,,,2.0,,,s-5j5rrfad842t1nebfc4lwmket,C. Thompson
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Rose,Daniel Antony,D. Rose,32,Striker,11,True,0,,0,,,,,,,,,,,
+2025-03-04,Grimsby Town,home,3-4-1-2,Shaun Pearson,Hume,Denver Jay,D. Hume,33,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Defender,6,False,1,76,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,6,Defender,5,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Morris,Kieron,K. Morris,7,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Hendry,Regan,R. Hendry,8,Attacking Midfielder,11,False,0,,0,,2.0,65.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-693vankfkq50hufuwcz7hu8r9,R. Hendry
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Hawkes,Joshua Stuart,J. Hawkes,11,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Mather,Samuel,S. Mather,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,2.0,65.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Garrett,Jake Joseph,J. Garrett,15,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Merrie,Christopher Francis,C. Merrie,16,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,17,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Attacking Midfielder,10,True,0,,0,,2.0,65.0,Tactical,s-7hhg47hss3k3k1axi8g3s72wa,J. Garrett,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,4,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jackson,Louis,L. Jackson,26,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-04,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,1,90+6,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Defender,2,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,6,Defender,6,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Morris,Kieron,K. Morris,7,Attacking Midfielder,11,False,0,,0,,2.0,66.0,Tactical,s-c9yuyh2p038inq1kj79sjofe,C. Merrie,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Hendry,Regan,R. Hendry,8,Midfielder,4,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Hawkes,Joshua Stuart,J. Hawkes,11,Attacking Midfielder,10,False,0,,0,,2.0,75.0,Tactical,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Mather,Samuel,S. Mather,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,2.0,87.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Garrett,Jake Joseph,J. Garrett,15,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Merrie,Christopher Francis,C. Merrie,16,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-3gffyf2cg2ur4q1oobe8yoy51,K. Morris
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,17,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,1,90+2,0,,,87.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Taylor,Samuel David,S. Taylor,20,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,5,True,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Defender,3,False,0,,0,,,,,,,,,,,
+2025-03-08,Tranmere Rovers,home,4-3-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Smith,Grant Ashley,G. Smith,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Charles,Ashley James,A. Charles,4,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-9ovlmh4rukru8pw2b5jrn94a1,C. Whitely
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Sowunmi,Omar Kolawole Olufemi,O. Sowunmi,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Cheek,Michael,M. Cheek,9,Striker,9,False,0,,0,,2.0,66.0,Injury,s-dclc34b8uak0rd73fhq5xrw89,N. Kabamba,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Dennis,Louis Hugh,L. Dennis,11,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-qqr3rbwxctlzsszhm7js5eui,C. Congreve
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Long,Samuel James,S. Long,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Grant,Kamarl Antonio,K. Grant,16,Defender,2,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Webster,Byron Clark,B. Webster,17,Defender,6,True,1,90+2,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Whitely,Corey Milton,C. Whitely,18,Attacking Midfielder,10,False,0,,0,,2.0,62.0,Tactical,s-bzqbpt01doqirtkcd2vzl0pka,A. Charles,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Ifill,Marcus Lemar,M. Ifill,19,Substitute,,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Arthurs,Jude,J. Arthurs,20,Defensive Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Congreve,Cameron Mark,C. Congreve,22,Attacking Midfielder,7,False,0,,0,,2.0,62.0,Tactical,s-670ul1l3rksjunjkagx5p19sl,L. Dennis,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Kabamba,Nicke,N. Kabamba,26,Substitute,,False,1,90+4,0,,,66.0,Injury,,,2.0,,,s-1psbbj5bi8iz9ke37r5egayfp,M. Cheek
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Odutayo,Idris Adewale Olarewaju,I. Odutayo,30,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-apgbqplqtvuc1dmdxi5gqhd04,A. Mayor
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Ilunga,Brooklyn,B. Ilunga,31,Attacking Midfielder,11,False,0,,0,,2.0,72.0,Tactical,s-ac7e3br1ao74gdpfxhojakges,M. Kacurri,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Thompson,Ben Rhys,B. Thompson,32,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Mayor,Adam,A. Mayor,34,Defender,3,False,0,,0,,2.0,62.0,Tactical,s-45q4thlqd0d9hu4bb8us2ol0q,I. Odutayo,,,,,
+2025-03-08,Bromley,away,4-2-3-1,Andy Woodman,Kacurri,Maldini,M. Kacurri,35,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-do40gxwu6fpwvy8eap1p4gr9w,B. Ilunga
