@@ -10135,3 +10135,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-04-05,Chesterfield,away,4-2-3-1,Paul Cook,Banks,Oliver Ian,O. Banks,28,Attacking Midfielder,7,False,0,,0,,2.0,68.0,Tactical,s-dgl4fbdrmolqgg0xzejl7ve8l,M. Jacobs,,,,,
 2025-04-05,Chesterfield,away,4-2-3-1,Paul Cook,Madden,Paddy Stephen,P. Madden,33,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-acxwj28vkxzoyd0kuzizsmadw,J. Metcalfe
 2025-04-05,Chesterfield,away,4-2-3-1,Paul Cook,Olakigbe,Michael Oluwakorede,M. Olakigbe,34,Attacking Midfielder,11,False,0,,0,,2.0,68.0,Tactical,s-uc2ekz3foqyl9djmicme4t4a,D. Duffy,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Kelly,Michael Sean,M. Kelly,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Love,Donald Alistair,D. Love,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Grant,Conor James,C. Grant,4,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-7uhajc3suc68vemamuc3dyvp,S. Whalley
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Rawson,Farrend James,F. Rawson,5,Defender,5,False,0,,0,,2.0,84.0,Injury,s-20z2xkmqc3em5dol00ko4sp62,S. Quirk,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Coyle,Liam Christopher,L. Coyle,6,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Whalley,Shaun James,S. Whalley,7,Attacking Midfielder,9,True,0,,0,,2.0,84.0,Tactical,s-ck0ialh1trb7rflysbsm6g6vp,C. Grant,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Woods,Benjamin Jack,B. Woods,8,Midfielder,8,False,1,77,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Mooney,Kelsey Thomas,K. Mooney,9,Substitute,,False,0,,0,,,88.0,Tactical,,,2.0,,,s-dbtmfmihfbxgujp62tu8o63u1,T. Walton
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Quirk,Sebastian Anthony,S. Quirk,12,Substitute,,False,0,,0,,,84.0,Injury,,,2.0,,,s-3nxrsmys3v8ci6xeqsx8yaac5,F. Rawson
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Ward,Benn David,B. Ward,14,Defender,4,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Batty,Jake Thomas,J. Batty,16,Midfielder,3,False,1,90+5,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Matthews,Devon,D. Matthews,17,Defender,6,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Caton,Charlie George,C. Caton,18,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-dv1g5fozbyj5r55grfp8x7uac,J. Woods
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Walton,Tyler,T. Walton,23,Striker,10,False,0,,0,,2.0,88.0,Tactical,s-5coxqgp7rvgs9lr8di911psdl,K. Mooney,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Isherwood,Liam Paul,L. Isherwood,30,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Woods,Josh Stanley Ronald,J. Woods,39,Striker,11,False,0,,0,,2.0,89.0,Tactical,s-8ulmmc45jlajkkd0v8qev4w2y,C. Caton,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,O'Brien-Whitmarsh,Joseph,J. O'Brien-Whitmarsh,43,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-12,Accrington Stanley,home,3-4-1-2,John Doolan,Hunter,Ashley Matthew,A. Hunter,45,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Bradshaw,Zak Dominic,Z. Bradshaw,3,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Davies,Thomas Christopher,T. Davies,5,Substitute,,False,0,,0,,,32.0,Tactical,,,1.0,,,s-d5ez41xiwizwfjey00yom0hyh,C. Wood
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,6,Defender,5,False,0,,0,,2.0,69.0,Tactical,s-42rr7g3qbbn9dyvkxiyvbhdlg,S. Taylor,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Morris,Kieron,K. Morris,7,Substitute,,False,1,61,0,,,46.0,Tactical,,,2.0,,,s-c9yuyh2p038inq1kj79sjofe,C. Merrie
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Hendry,Regan,R. Hendry,8,Attacking Midfielder,11,False,1,77,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Hawkes,Joshua Stuart,J. Hawkes,11,Midfielder,2,False,0,,0,,2.0,69.0,Tactical,s-6djkebstplayojjus0q6c3vh0,Z. Bradshaw,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Dennis,Kristian,K. Dennis,14,Striker,9,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Garrett,Jake Joseph,J. Garrett,15,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Merrie,Christopher Francis,C. Merrie,16,Midfielder,7,False,0,,0,,2.0,46.0,Tactical,s-3gffyf2cg2ur4q1oobe8yoy51,K. Morris,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,17,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Attacking Midfielder,10,True,0,,0,,2.0,46.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Taylor,Samuel David,S. Taylor,20,Substitute,,False,1,90+12,0,,,69.0,Tactical,,,2.0,,,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Defender,4,False,0,,0,,1.0,32.0,Tactical,s-9e5mebs52jf2y9omsjewv1sd1,T. Davies,,,,,
+2025-04-12,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,3,False,0,,0,,,,,,,,,,,
