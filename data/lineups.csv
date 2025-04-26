@@ -10242,3 +10242,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-04-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,1,34,0,,,,,,,,,,,
 2025-04-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Midfielder,3,False,1,62,0,,,,,,,,,,,
 2025-04-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Attacking Midfielder,10,False,0,,0,,2.0,66.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,1,90+5,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Bradshaw,Zak Dominic,Z. Bradshaw,3,Substitute,,False,0,,0,,,90.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Davies,Thomas Christopher,T. Davies,5,Defender,5,True,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,6,Defender,4,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Morris,Kieron,K. Morris,7,Attacking Midfielder,9,False,0,,0,,2.0,80.0,Tactical,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Hendry,Regan,R. Hendry,8,Midfielder,8,False,1,84,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,1,90+5,0,,,63.0,Tactical,,,2.0,,,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Hawkes,Joshua Stuart,J. Hawkes,11,Substitute,,False,0,,0,,,90.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Dennis,Kristian,K. Dennis,14,Striker,10,False,1,30,0,,2.0,90.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Garrett,Jake Joseph,J. Garrett,15,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Merrie,Christopher Francis,C. Merrie,16,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-3gffyf2cg2ur4q1oobe8yoy51,K. Morris
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Saunders,Harvey Read,H. Saunders,19,Striker,11,False,0,,0,,2.0,63.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Taylor,Samuel David,S. Taylor,20,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-04-26,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Midfielder,2,False,0,,0,,2.0,90.0,Tactical,s-6djkebstplayojjus0q6c3vh0,Z. Bradshaw,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Booth,Thomas Luke,T. Booth,1,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Knight-Lebel,Jamie Mathieu,J. Knight-Lebel,3,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Issac Williams,Michael,Z. Williams,4,Defender,6,True,0,,1,90+4,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Sanders,Max Harrison,M. Sanders,6,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-5we2q76aheeverynllxnn36dw,O. Lunt
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Long,Christopher Michael,C. Long,7,Striker,11,False,0,,0,,2.0,66.0,Tactical,s-34nk6hwcm5rck1ml4vak2u4lx,K. Hemmings,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Thomas,Conor,C. Thomas,8,Midfielder,4,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Tabiner,Joel William,J. Tabiner,11,Striker,10,False,0,,0,,1.0,26.0,Injury,s-ce9z53m50wys7mgjkl8r7fwno,C. Agius,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Marschall,Filip,F. Marschall,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Hemmings,Kane Ruudi,K. Hemmings,15,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-3v8h77978yr2kbznuyl5xbetx,C. Long
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Connolly,James Alfred,J. Connolly,18,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Lunt,Owen Alan,O. Lunt,19,Midfielder,7,False,0,,0,,2.0,72.0,Tactical,s-76j19abwcie5w5hptkewlh0bt,M. Sanders,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Agius,Calum Stewart,C. Agius,20,Substitute,,False,0,,0,,,26.0,Injury,,,1.0,,,s-3gwu0htvnff6ock9nl8zs1e6s,J. Tabiner
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Finney,Charlie Joe,C. Finney,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Conway,Maxwell John,M. Conway,25,Defender,3,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,O'Riordan,Connor Patrick,C. O'Riordan,26,Defender,5,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Billington,Lewis Carl,L. Billington,28,Defender,2,False,0,,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Thibaut,Adrien Tinashe,A. Thibaut,29,Striker,9,False,1,90+5,0,,,,,,,,,,,
+2025-04-26,Crewe Alexandra,away,4-3-3,Lee Bell,Lowery,Thomas Richard,T. Lowery,30,Midfielder,8,False,0,,1,69,,,,,,,,,,
