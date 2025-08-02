@@ -10314,3 +10314,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-05-03,Tranmere Rovers,away,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
 2025-05-03,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Wood,Connor Oliver,C. Wood,23,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
 2025-05-03,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,30,Attacking Midfielder,10,False,0,,0,,2.0,73.0,Tactical,s-d5ez41xiwizwfjey00yom0hyh,C. Wood,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Macey,Matthew Ryan,M. Macey,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Hunt,Robert Donald,R. Hunt,2,Defender,3,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Perry,Benjamin Marshall,B. Perry,4,Midfielder,4,False,0,,0,,2.0,77.0,Tactical,s-cuyd2ma98m6iq8e8va1bqlxey,J. Gordon,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Tucker,Jack Robert,J. Tucker,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Flanagan,Thomas Michael,T. Flanagan,6,Defender,6,True,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Anderson,Harry John,H. Anderson,7,Midfielder,7,False,1,22,0,,2.0,54.0,Tactical,s-5glhufxjk686jeu58gak0mnvu,A. Akande,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Bishop,Edward James,E. Bishop,8,Midfielder,8,False,0,,0,,2.0,67.0,Tactical,s-9wa616wzqrhlpi8e6yzo8j3l5,A. Read,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Gordon,John-Kymani Linton Michael,J. Gordon,11,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-1y93e0p1pscaeceqp1f6tdclw,B. Perry
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Smith,Thomas Andrew Salvatore,T. Smith,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Lisbie,Kyreece Joshua,K. Lisbie,14,Substitute,,False,1,69,0,,,54.0,Tactical,,,2.0,,,s-b5noaolne8tw3x6zlucevnyms,J. Williams
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Read,Arthur James,A. Read,16,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-2sqsqi4h0d982a171bfuqnd91,E. Bishop
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Williams,Jaden Pharell Earl,J. Williams,17,Striker,9,False,0,,0,,2.0,54.0,Tactical,s-15j44efppt11aeygzxmds7bis,K. Lisbie,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Thorn,Oscar Peter,O. Thorn,18,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-1uv1l0l2zhrv5rjb9dgko0r1l,K. Vincent-Young
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Goodwin,William Neil,W. Goodwin,19,Striker,10,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Edwards,Owura Nsiah,O. Edwards,21,Midfielder,11,False,0,,0,,,,,,,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Akande,Adrian Moyosoreoluwa Ameer,A. Akande,23,Substitute,,False,0,,0,,,54.0,Tactical,,,2.0,,,s-f4qyrav5wfp55jyprdoq1upcl,H. Anderson
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Vincent-Young,Kane Benjamin,K. Vincent-Young,30,Defender,2,False,0,,0,,2.0,67.0,Tactical,s-cgj1noywt0gmsgit1bcl8krv8,O. Thorn,,,,,
+2025-08-02,Colchester United,home,4-4-2,Danny Cowley,Terry,Frankie Edward,F. Terry,40,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Brough,Patrick John,P. Brough,3,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,4,Defender,4,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Midfielder,7,True,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Dennis,Kristian,K. Dennis,9,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Striker,9,False,0,,0,,2.0,61.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Striker,11,False,0,,0,,2.0,61.0,Tactical,s-5jox12fpl2p436utg6vkzlses,T. Harris,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Lowe,Jason John,J. Lowe,16,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Solomon,Sol,S. Solomon,17,Substitute,,False,1,89,0,,,71.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Striker,10,False,0,,0,,2.0,71.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Blacker,Billy,B. Blacker,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2025-08-02,Tranmere Rovers,away,3-4-3,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Midfielder,8,False,1,79,0,,2.0,80.0,Tactical,s-32o26ls8zmlnnl91vlpd7oded,J. Lowe,,,,,
