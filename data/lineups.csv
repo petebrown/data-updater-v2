@@ -10386,3 +10386,114 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-08-09,Shrewsbury Town,away,3-5-1-1,Michael Appleton,Stubbs,Sam Alan,S. Stubbs,26,Defender,6,False,0,,0,,,,,,,,,,,
 2025-08-09,Shrewsbury Town,away,3-5-1-1,Michael Appleton,Marquis,John Edward,J. Marquis,27,Striker,9,True,0,,0,,,,,,,,,,,
 2025-08-09,Shrewsbury Town,away,3-5-1-1,Michael Appleton,England,Isaac,I. England,38,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,1,90+4,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,4,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Midfielder,7,True,1,77,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,62.0,Tactical,s-41effdztsrt4lvypjgmeg8nsa,E. Bristow,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Dennis,Kristian,K. Dennis,9,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-5jox12fpl2p436utg6vkzlses,T. Harris
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Striker,9,False,0,,0,,2.0,88.0,Injury,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Lowe,Jason John,J. Lowe,16,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,88.0,Injury,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Bristow,Ethan David,E. Bristow,23,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Attacking Midfielder,10,False,0,,0,,2.0,62.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2025-08-16,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Morris,Glenn James,G. Morris,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Hutton,Remeao Andrew,R. Hutton,2,Wing Back,2,False,0,,0,,2.0,79.0,Tactical,s-8eiq0a7plob8h1mpe6q52s2ne,A. Rowe,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Clark,Max Oliver,M. Clark,3,Wing Back,3,False,1,86,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Smith,Andrew John,A. Smith,5,Defender,4,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Coleman,Ethan Jay,E. Coleman,6,Midfielder,11,False,0,,0,,1.0,27.0,Injury,s-6d2zch7rindc36rvzi8lg65ed,J. Williams,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Little,Armani George,A. Little,8,Midfielder,7,True,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Andrews,Joshua Matthew,J. Andrews,9,Striker,10,False,0,,0,,2.0,70.0,Tactical,s-1ewzhrcfq1ir5vmq7qz7a8v84,J. Gbode,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Williams,Jonathan Peter,J. Williams,10,Substitute,,False,0,,0,,,27.0,Injury,,,1.0,,,s-51yne25q6xkuf9upn9ovfhrl5,E. Coleman
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Rowe,Aaron Kevin Isaac,A. Rowe,11,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-b3neg57qgikjlpp7q6oiuvbah,R. Hutton
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,McKenzie,Robbie,R. McKenzie,14,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Gbode,Joseph Paul Caleb,J. Gbode,17,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-coryktjpq320jp7kq61v88ley,J. Andrews
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Wyllie,Marcus Antony,M. Wyllie,18,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-cfctx4jjyzrqgeu1kcyt60f10,E. Nevitt
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Nevitt,Elliott Lloyd,E. Nevitt,20,Striker,9,False,1,39,0,,2.0,79.0,Tactical,s-9pqo3ansyk9spfq43j5jurill,M. Wyllie,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Dack,Bradley Paul,B. Dack,23,Midfielder,8,False,1,21,0,,2.0,79.0,Tactical,s-10ak89g8v3k5vx9vyo0m6rofe,N. Khumbeni,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Turner,Jake Edward,J. Turner,25,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Khumbeni,Nelson Wilfred,N. Khumbeni,27,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-2h1mmabyhabgl3mf5yd4lxg45,B. Dack
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Gale,Sam Rodin,S. Gale,30,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-16,Gillingham,away,5-3-2,Gareth Ainsworth,Cirino,Lenni Rae Rowan,L. Cirino,32,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,4,Defender,4,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Midfielder,8,True,0,,0,,2.0,60.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,10,False,0,,0,,2.0,67.0,Tactical,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-41effdztsrt4lvypjgmeg8nsa,E. Bristow
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Lowe,Jason John,J. Lowe,16,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Attacking Midfielder,11,False,0,,0,,2.0,67.0,Tactical,s-ax2mraa85fs9ihyhk7qnmm489,H. Saunders,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Striker,9,False,1,41,0,,2.0,67.0,Tactical,s-5jox12fpl2p436utg6vkzlses,T. Harris,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Saunders,Harvey Read,H. Saunders,19,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-az1nx89lrs221wy3dy46za2hg,S. Solomon
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,60.0,Tactical,,,2.0,,,s-a2t6x74hyo3ymdtv9ygab9xhx,R. Smallwood
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Bristow,Ethan David,E. Bristow,23,Midfielder,3,False,0,,0,,2.0,79.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2025-08-19,Tranmere Rovers,home,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Armer,Jack Alfred,J. Armer,3,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Chauke,Kgaogelo,K. Chauke,4,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Sibbick,Toby Peter Humphrey,T. Sibbick,6,Substitute,,False,1,90+7,0,,,79.0,Tactical,,,2.0,,,s-51d8696s46c7kuunieu9xfa50,J. Newall
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Webster,Charles Clive,C. Webster,8,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Shade,Tyrese,T. Shade,10,Striker,9,False,0,,0,,2.0,64.0,Tactical,s-8zea9qojf6svoa6wb5vm6q0dm,Fábio Tavares,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Tavares Desidério,Fábio André,Fábio Tavares,11,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-6o887kyfus9gc6eju5qnbsbmx,T. Shade
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Akoto,Nicholas,N. Akoto,14,Defender,2,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Williams,Dylan Riley,D. Williams,19,Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Larsson,Julian Hunter,J. Larsson,22,Attacking Midfielder,10,True,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Revan,Sebastian Emmanuel,S. Revan,23,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-4eu22at9oylt3ihp5d5yr0ciy,G. Bajrami
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Gilligan,Ciaran Patrick,C. Gilligan,25,Midfielder,4,False,0,,0,,2.0,79.0,Tactical,s-4aux3jd63d0wgjavi8re6hc7o,S. Krubally,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Delap,Finn Anthony,F. Delap,26,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Dudek,Kamil,K. Dudek,27,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Duke Isted,Harvey James,H. Isted,32,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Bajrami,Geraldo,G. Bajrami,33,Defender,5,False,0,,0,,2.0,46.0,Tactical,s-93l4n6i8ndeqbrubekomd5ca2,S. Revan,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Whitfield,Benjamin Michael,B. Whitfield,34,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Newall,Jack,J. Newall,38,Attacking Midfielder,11,False,1,72,0,,2.0,79.0,Tactical,s-emglo360rdevds650u33d2odl,T. Sibbick,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Taroni,Josh,J. Taroni,39,Defender,3,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Thistleton,Bodi,B. Thistleton,40,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-19,Burton Albion,away,4-3-2-1,Gary Bowyer,Krubally,Sulyman,S. Krubally,41,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-a6w8k42asmtixpi0orgxh7aj8,C. Gilligan
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Davies,Harvey Peter,H. Davies,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Conroy,Dion John,D. Conroy,3,Defender,5,True,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Bajrami,Geraldo,G. Bajrami,4,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-61tncgkpzj7n0hdpjgch9n0tl,L. Watson
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Barker,Charlie Mel,C. Barker,5,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Anderson,Max Willocks,M. Anderson,6,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Tshimanga,Kabongo,K. Tshimanga,9,Striker,9,False,0,,0,,2.0,74.0,Tactical,s-8uanen9bww62go47qsfuuf3mc,L. Flower,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Brown,Reece Glenn,R. Brown,10,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Roles,Jack,J. Roles,11,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-3sp46qr51lu5o2213enn5xtjp,K. Scott
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,McKirdy,Harry,H. McKirdy,13,Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Flower,Louis Christopher Chukwuemeka,L. Flower,14,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-dzboc2cmovo7k3g70y5socpn9,K. Tshimanga
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Scott,Kyle Michael,K. Scott,17,Midfielder,11,False,1,8,0,,2.0,79.0,Tactical,s-1kzl2c80kbzhb9ne6nhk5nrop,J. Roles,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Cashman,Danny Christopher,D. Cashman,18,Midfielder,3,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Mukena,Joy Richard Mpinga,J. Mukena,20,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Adeyemo,Adetokunbo Bamidele,A. Adeyemo,22,Midfielder,2,False,0,,0,,2.0,84.0,Tactical,s-756pi2yg4xzgdv9ou18xy94pg,T. Showunmi,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Dixon,Kaheim Anthony,K. Dixon,24,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Watson,Louie Shaun,L. Watson,27,Midfielder,7,False,0,,0,,2.0,74.0,Tactical,s-4eu22at9oylt3ihp5d5yr0ciy,G. Bajrami,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Flint,Joshua Hughson,J. Flint,28,Defender,4,False,0,,0,,,,,,,,,,,
+2025-08-23,Crawley Town,home,3-5-1-1,Scott Lindsey,Showunmi,Abiola Adetola,T. Showunmi,29,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-d6yqv7j959j2oefwn5swvkr9w,A. Adeyemo
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,4,False,1,67,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Turnbull,Jordan Robert,J. Turnbull,4,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-41effdztsrt4lvypjgmeg8nsa,E. Bristow
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Midfielder,7,True,1,45+1,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,10,False,1,21,0,,2.0,73.0,Tactical,s-5jox12fpl2p436utg6vkzlses,T. Harris,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Striker,9,False,0,,0,,2.0,63.0,Tactical,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Attacking Midfielder,11,False,0,,0,,2.0,84.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Lowe,Jason John,J. Lowe,16,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,63.0,Tactical,,,2.0,,,s-84qumtphadlmwu0bikkii936y,J. Davison
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Bristow,Ethan David,E. Bristow,23,Midfielder,3,False,0,,0,,2.0,73.0,Tactical,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Substitute,,False,0,,0,,,,,,,,,,,
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2025-08-23,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Midfielder,8,False,1,10,0,,2.0,73.0,Tactical,s-32o26ls8zmlnnl91vlpd7oded,J. Lowe,,,,,
