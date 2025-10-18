@@ -10817,3 +10817,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2025-10-11,Barnet,away,4-2-3-1,Dean Brennan,Hrvatsko Tavares,Nikola,N. Tavares,25,Defender,6,False,0,,0,,,,,,,,,,,
 2025-10-11,Barnet,away,4-2-3-1,Dean Brennan,Ofoborh,Nathan Nnamdi Ugochukwu Benjamin Asigboro,N. Ofoborh,28,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
 2025-10-11,Barnet,away,4-2-3-1,Dean Brennan,Slicker,Cieran Peter,C. Slicker,29,Goalkeeper,1,False,1,47,1,90+6,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Southwood,Luke Kevin,L. Southwood,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Sparkes,Jack,J. Sparkes,3,Defender,3,False,0,,0,,2.0,59.0,Tactical,s-bps63u4z0n7ip4ctstfl5474k,B. Bilongo,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Kilgour,Alfie George Alexander,A. Kilgour,5,Defender,6,True,1,90+1,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Forde,Shaqai Tyreece Steven,S. Forde,7,Substitute,,False,0,,0,,,59.0,Tactical,,,2.0,,,s-eoyn6apbn6ulgz0w5gqgb9isq,K. Conteh
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Sotiriou,Ruel Dimitrios,R. Sotiriou,10,Substitute,,False,0,,0,,,25.0,Injury,,,1.0,,,s-bojsqjfaoi810xuyz0qeqs0r9,E. Harrison
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Thomas,Luke Gerald Michael,L. Thomas,11,Attacking Midfielder,8,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Young,Bradley,B. Young,13,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Harrison,Ellis Wade,E. Harrison,19,Striker,10,False,1,5,0,,1.0,25.0,Injury,s-8qjb4vy0qe8i250jrm2ixlzze,R. Sotiriou,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,McEachran,Joshua Mark,J. McEachran,20,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Conteh,Kamil Amadu,K. Conteh,22,Defensive Midfielder,11,False,0,,0,,2.0,59.0,Tactical,s-3bwsm218zofkphy0p3iisoxzo,S. Forde,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Southam-Hales,Macauley Anthony,M. Southam-Hales,23,Defender,2,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Chang,Alfie James,A. Chang,24,Defensive Midfielder,7,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Howley,Ryan Oliver,R. Howley,25,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Akono Bilongo,Bryant,B. Bilongo,27,Substitute,,False,0,,0,,,59.0,Tactical,,,2.0,,,s-c1hj1hth3xj2f0ax3x6fdwj8q,J. Sparkes
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Negru,Stephan,S. Negru,28,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Cavegn,Fabrizio,F. Cavegn,29,Striker,9,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Łopata,Kacper Mieczyslaw,K. Łopata,35,Defender,5,False,0,,0,,,,,,,,,,,
+2025-10-18,Bristol Rovers,home,4-3-1-2,Darrell Clarke,Dewsbury,Ollie,O. Dewsbury,43,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,2.0,76.0,Tactical,s-b9kv3hxi1o0gvfsylqmr5wy6s,J. Joseph,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,4,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-14sq9h8jlgoymbi6x6rv387bo,B. Blacker
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,9,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Finley,Samuel Joseph,S. Finley,8,Midfielder,8,False,0,,0,,2.0,68.0,Tactical,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,1,55,0,,,46.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Midfielder,3,False,1,71,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Murphy,Joseph,J. Murphy,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Joseph,Jayden,J. Joseph,14,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-3kemfwng2z3s7yhkgemf37qh,C. Norman
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Striker,10,True,0,,0,,2.0,83.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Midfielder,7,False,0,,0,,2.0,76.0,Tactical,s-a2t6x74hyo3ymdtv9ygab9xhx,R. Smallwood,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Substitute,,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Striker,11,False,0,,0,,2.0,46.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,McGowan,Aaron Joseph,A. McGowan,30,Defender,6,False,0,,0,,,,,,,,,,,
+2025-10-18,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
