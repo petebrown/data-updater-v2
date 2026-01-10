@@ -11357,3 +11357,38 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-01-01,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Harris,Taylan Yusuf Kenneth,T. Harris,25,Substitute,,False,0,,0,,,,,,,,,,,
 2026-01-01,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Striker,10,False,0,,0,,2.0,90.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
 2026-01-01,Tranmere Rovers,away,3-4-1-2,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,86.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,4,False,1,49,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Midfielder,8,True,0,,0,,2.0,66.0,Tactical,s-14sq9h8jlgoymbi6x6rv387bo,B. Blacker,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,9,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Finley,Samuel Joseph,S. Finley,8,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Dennis,Kristian,K. Dennis,9,Striker,10,False,0,,0,,2.0,66.0,Tactical,s-84qumtphadlmwu0bikkii936y,J. Davison,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Davison,Joshua Michael Blainey,J. Davison,10,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Barrett,Jack Joseph,J. Barrett,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Joseph,Jayden,J. Joseph,14,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Bristow,Ethan David,E. Bristow,23,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-cx80bpmc1tu0565b5is4hn0t1,A. McGowan
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-a2t6x74hyo3ymdtv9ygab9xhx,R. Smallwood
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Striker,11,False,1,15,0,,2.0,66.0,Tactical,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,McGowan,Aaron Joseph,A. McGowan,30,Defender,6,False,0,,0,,2.0,84.0,Tactical,s-41effdztsrt4lvypjgmeg8nsa,E. Bristow,,,,,
+2026-01-10,Tranmere Rovers,home,3-4-1-2,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Smith,Grant Ashley,G. Smith,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Akinola Elerewe,Ayodeji Joshua Oluwapelumi,D. Elerewe,3,Defender,6,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Charles,Ashley James,A. Charles,4,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Sowunmi,Omar Kolawole Olufemi,O. Sowunmi,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Cameron,Kyle Milne,K. Cameron,6,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Krauhaus,Ben,B. Krauhaus,7,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Thompson,Ben Rhys,B. Thompson,8,Substitute,,False,0,,0,,,93.0,Tactical,,,2.0,,,s-32i91t52xsfoqv6mxvejbp2zu,W. Hondermarck
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Cheek,Michael,M. Cheek,9,Striker,9,False,1,59,0,,2.0,66.0,Tactical,s-dclc34b8uak0rd73fhq5xrw89,N. Kabamba,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Pinnock,Mitchell Bernard,M. Pinnock,11,Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Long,Samuel James,S. Long,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Kabamba,Nicke,N. Kabamba,14,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-1psbbj5bi8iz9ke37r5egayfp,M. Cheek
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Hondermarck,William Mbongo Desire,W. Hondermarck,16,Midfielder,10,False,1,73,0,,2.0,93.0,Tactical,s-1zpxu396rz1b3gymuheg69h3p,B. Thompson,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Whitely,Corey Milton,C. Whitely,18,Midfielder,7,False,0,,0,,2.0,85.0,Tactical,s-do40gxwu6fpwvy8eap1p4gr9w,B. Ilunga,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Arthurs,Jude Robert,J. Arthurs,20,Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Samuel,Lakyle,L. Samuel,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Ifill,Marcus Lemar,M. Ifill,26,Defender,2,False,0,,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Olarewaju Odutayo,Idris Adewale,I. Odutayo,30,Defender,3,False,1,41,0,,,,,,,,,,,
+2026-01-10,Bromley,away,4-1-4-1,Andy Woodman,Ilunga,Brooklyn,B. Ilunga,31,Substitute,,False,0,,0,,,85.0,Tactical,,,2.0,,,s-9ovlmh4rukru8pw2b5jrn94a1,C. Whitely
