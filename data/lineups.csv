@@ -11427,3 +11427,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-01-17,Walsall,away,3-5-2,Mat Sadler,Scott Richards,Rico Dean,R. Richards,31,Substitute,,False,0,,0,,,,,,,,,,,
 2026-01-17,Walsall,away,3-5-2,Mat Sadler,Łopata,Kacper Mieczyslaw,K. Łopata,35,Substitute,,False,1,90+4,0,,,87.0,Tactical,,,2.0,,,s-d9pgv10v3sz33wzz7jvr7scq2,E. Weir
 2026-01-17,Walsall,away,3-5-2,Mat Sadler,Adomah,Albert Danquah,A. Adomah,37,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-2vw0m5bib6bnr5n1hsxkxe904,D. Kanu
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Eastwood,Jake,J. Eastwood,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Bennett,Liam Dennis,L. Bennett,2,Midfielder,2,False,0,,0,,2.0,57.0,Tactical,s-c74i41av48olegk7m5zi39lnt,S. Lavery,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Purrington,Ben,B. Purrington,3,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-s2phyy6eoysnxu96rw2ivnx1,S. Kaikai
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Ball,Dominic Martin,D. Ball,4,Substitute,,False,0,,0,,,58.0,Tactical,,,2.0,,,s-9gh28gs9i4hfnqqwymzc7s36c,G. Hoddle
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Watts,Kelland John William James,K. Watts,6,Defender,4,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Brophy,James Robert,J. Brophy,7,Midfielder,3,False,1,35,0,,2.0,84.0,Tactical,s-9i7xyx5fmckuay7m5lat0xvmy,Z. Rossi,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Appéré,Louis George Pierre,L. Appéré,9,Striker,9,False,0,,0,,2.0,72.0,Tactical,s-cfctx4jjyzrqgeu1kcyt60f10,E. Nevitt,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Kaikai,Sulaiman Borbor,S. Kaikai,11,Attacking Midfielder,11,False,0,,0,,2.0,83.0,Tactical,s-eue5o5hcml60dtt61qku5jcut,B. Purrington,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Knight,Benjamin Leo,B. Knight,14,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Ibsen Rossi,Zeno,Z. Rossi,16,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-2oqi7v6d676hbe9i9agdl9ckp,J. Brophy
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Mpanzu,Pelly Ruddock,P. Mpanzu,17,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Lavery,Shayne Francis,S. Lavery,19,Substitute,,False,0,,0,,,57.0,Tactical,,,2.0,,,s-58yhuku61yc06xpc55v5cdtec,L. Bennett
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,McLoughlin,Shane Daniel,S. McLoughlin,21,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Jobe,Mamadou Ousmane,M. Jobe,23,Defender,5,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Nevitt,Elliott Lloyd,E. Nevitt,24,Substitute,,False,0,,0,,,72.0,Tactical,,,2.0,,,s-4qpogy2j8e58kr2b0qf9sjht5,L. Appéré
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Hughes,Benjamin Rhys,B. Hughes,25,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Gibbons,James Andrew,J. Gibbons,26,Defender,6,True,0,,0,,,,,,,,,,,
+2026-01-24,Cambridge United,home,3-4-2-1,Neil Harris,Hoddle,George David,G. Hoddle,38,Midfielder,8,False,1,19,0,,2.0,58.0,Tactical,s-932abz8zmqv4ilfnmq7m2ew9h,D. Ball,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,4,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,6,False,1,15,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Smallwood,Richard,R. Smallwood,6,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Substitute,,False,0,,0,,,55.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,8,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Dennis,Kristian,K. Dennis,9,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-7xr6yeu0yevkshdqj9acwmrit,C. Jennings
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Murphy,Joseph,J. Murphy,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Joseph,Jayden,J. Joseph,14,Midfielder,3,False,0,,0,,1.0,21.0,Injury,s-cx80bpmc1tu0565b5is4hn0t1,A. McGowan,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Nkwawu Tamen,William,W. Tamen,15,Defender,5,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jennings,Connor Joseph,C. Jennings,18,Attacking Midfielder,11,True,0,,0,,2.0,74.0,Tactical,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Blacker,Billy Rolfe,B. Blacker,24,Midfielder,8,False,1,54,0,,2.0,74.0,Tactical,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Jones,Dylan,D. Jones,27,Attacking Midfielder,10,False,0,,0,,2.0,55.0,Tactical,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Striker,9,False,0,,0,,,,,,,,,,,
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,McGowan,Aaron Joseph,A. McGowan,30,Substitute,,False,1,86,0,,,21.0,Injury,,,1.0,,,s-b9kv3hxi1o0gvfsylqmr5wy6s,J. Joseph
+2026-01-24,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-14sq9h8jlgoymbi6x6rv387bo,B. Blacker
