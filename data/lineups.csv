@@ -11641,3 +11641,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-02-17,Accrington Stanley,away,3-4-2-1,John Doolan,Heath,Isaac,I. Heath,30,Midfielder,3,False,1,90+1,0,,,,,,,,,,,
 2026-02-17,Accrington Stanley,away,3-4-2-1,John Doolan,O'Brien,Connor David,C. O'Brien,38,Midfielder,2,False,0,,0,,,,,,,,,,,
 2026-02-17,Accrington Stanley,away,3-4-2-1,John Doolan,Woods,Josh Stanley Ronald,J. Woods,39,Striker,9,False,0,,1,90+5,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,McDonald,Rodney Troy,R. McDonald,3,Substitute,,False,0,,0,,,63.0,Tactical,,,2.0,,,s-c6vrpcu6s8arwriuj210jwtl,M. Platt
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Bedeau,Jacob Mitchell,J. Bedeau,4,Defender,4,True,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Platt,Matthew James,M. Platt,5,Defender,5,False,1,45,0,,2.0,63.0,Tactical,s-al12wsjio7jvygau70di1dxp1,R. McDonald,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Norburn,Oliver Lewis,O. Norburn,8,Midfielder,7,False,0,,0,,1.0,26.0,Injury,s-9mgcugydtvdr5wk7qii9wpd2i,C. Grant,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Jones,Jodi Jay Felice,J. Jones,10,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Grant,Conor Michael,C. Grant,11,Substitute,,False,0,,0,,,26.0,Injury,,,1.0,,,s-boc9kr63xs5j2lx89tl1vjxsl,O. Norburn
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Achi Iorpenda,Thomas,T. Iorpenda,14,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Kouhyar,Qamaruddin Maziar,Maziar Kouhyar,17,Attacking Midfielder,11,False,0,,0,,2.0,64.0,Tactical,s-c38y1cqrund5ymbqc0yqzb7kk,T. Hall,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Dennis,Matthew Timothy,M. Dennis,19,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-59xytj0hjf4kmk2wt5ii8gicp,L. Ndlovu
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Robertson,Scott Alexander Cameron,S. Robertson,20,Midfielder,8,False,0,,0,,2.0,76.0,Tactical,s-115owbh8c39gfwcja2wxuweay,H. Tangen,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Griffiths,Harry,H. Griffiths,21,Substitute,,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Enoru,Beck-Ray Besongbap,B. Enoru,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Tsaroulla,Nicholas Andrew,N. Tsaroulla,25,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Hall,Tyrese Shaun,T. Hall,26,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-b1cxmqvgcbzh3oe6qmh35mk89,Maziar Kouhyar
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Nilsen Tangen,Harald,H. Tangen,27,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-2y1fhmv1aw0ocpu3h0wrfi1d6,S. Robertson
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Macari,Lewis Jon,L. Macari,28,Defender,6,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Belshaw,James Michael,J. Belshaw,31,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-02-21,Notts County,home,3-4-2-1,Martin Paterson,Ndlovu,Lindokuhle,L. Ndlovu,39,Striker,9,False,0,,0,,2.0,64.0,Tactical,s-87t5bq8gb92jo9vdj3wfc6jxm,M. Dennis,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Substitute,,False,0,,0,,,51.0,Tactical,,,2.0,,,s-71or1ne6d9zuo038qdt6vcvoq,L. Warrington
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,4,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Whitaker,Charlie Jay,C. Whitaker,7,Striker,9,False,0,,0,,2.0,61.0,Tactical,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,8,Midfielder,7,True,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Attacking Midfielder,11,False,0,,0,,2.0,67.0,Tactical,s-bwzdtjy3fmtv42d91vnnof84,M. Dickov,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Lowe,Jason John,J. Lowe,16,Defender,6,False,0,,0,,2.0,67.0,Tactical,s-cx80bpmc1tu0565b5is4hn0t1,A. McGowan,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Warrington,Lewis Wesley,L. Warrington,25,Midfielder,8,False,1,41,0,,2.0,51.0,Tactical,s-3kemfwng2z3s7yhkgemf37qh,C. Norman,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Plant,James John,J. Plant,26,Midfielder,2,False,0,,0,,2.0,51.0,Tactical,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Negru,Stephan,S. Negru,28,Defender,5,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Substitute,,False,0,,0,,,51.0,Tactical,,,2.0,,,s-3avfwbde1n5ti7w690ve0cges,J. Plant
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,McGowan,Aaron Joseph,A. McGowan,30,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-32o26ls8zmlnnl91vlpd7oded,J. Lowe
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Dickov,Max,M. Dickov,31,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Obiero,Zechariah Nahum,Z. Obiero,32,Attacking Midfielder,10,False,1,34,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-02-21,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
