@@ -11712,3 +11712,38 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-02-28,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Obiero,Zechariah Nahum,Z. Obiero,32,Attacking Midfielder,10,False,1,90,0,,,,,,,,,,,
 2026-02-28,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
 2026-02-28,Tranmere Rovers,away,3-4-2-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Evans,Cameron James,C. Evans,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Baker,Matthew,M. Baker,4,Defender,5,True,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Sprangler,Sven Michael,S. Sprangler,5,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Kamwa,Bobby-Emmanuel,B. Kamwa,7,Striker,9,False,1,45+5,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Smith,Matthew Robert,M. Smith,8,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Baker-Richardson,Courtney Romello,C. Baker-Richardson,9,Striker,10,False,1,45+1,0,,2.0,89.0,Tactical,s-e56pirwk5zxn6qb60b85jbrbo,C. Jarvis,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Biggins,Harrison,H. Biggins,10,Midfielder,11,False,0,,0,,2.0,79.0,Tactical,s-8d6o15wvepi7do7e0ubjeoga2,G. Garner,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,MacDonald,Shaun Wesley,S. MacDonald,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Jenkins,Lee Thomas,L. Jenkins,15,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Crole,James William Thomas,J. Crole,16,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Davies,Thomas Alfred,T. Davies,17,Defender,3,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Garner,Gerard,G. Garner,19,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-4ltpx62a5n6r3v48gcax3wmh,H. Biggins
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Lloyd,Ben,B. Lloyd,20,Attacking Midfielder,8,False,0,,0,,2.0,60.0,Tactical,s-983yy0ez1onytwj2k1nqw61p0,N. Opoku,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Spellman,Michael Dean Emery,M. Spellman,21,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Delaney,Ryan Liam,R. Delaney,23,Defender,6,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Opoku Onyina,Nathaniel,N. Opoku,24,Substitute,,False,0,,0,,,60.0,Tactical,,,2.0,,,s-6emeocs4alpu09t9sdew11une,B. Lloyd
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Wright,Jordan Ian,J. Wright,28,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-03-03,Newport County,home,4-1-2-1-2,Christian Fuchs,Jarvis,Cole Lewis,C. Jarvis,40,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-cwndquajszogvk6gktw5phv4l,C. Baker-Richardson
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Norman,Cameron Pearce,C. Norman,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Brough,Patrick John,P. Brough,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Finley,Samuel Joseph,S. Finley,8,Midfielder,4,True,1,22,1,45+3,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Patrick,Omari Joshua Curtis,O. Patrick,11,Midfielder,11,False,0,,0,,2.0,46.0,Tactical,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Lowe,Jason John,J. Lowe,16,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,91.0,Tactical,,,2.0,,,s-167itb6gp221yil6lln017nys,Z. Obiero
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Warrington,Lewis Wesley,L. Warrington,25,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Plant,James John,J. Plant,26,Midfielder,7,False,1,80,0,,2.0,89.0,Tactical,s-bwzdtjy3fmtv42d91vnnof84,M. Dickov,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Negru,Stephan,S. Negru,28,Defender,6,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Ironside,Joe Samuel,J. Ironside,29,Striker,9,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,McGowan,Aaron Joseph,A. McGowan,30,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Dickov,Max,M. Dickov,31,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-3avfwbde1n5ti7w690ve0cges,J. Plant
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Obiero,Zechariah Nahum,Z. Obiero,32,Attacking Midfielder,10,False,0,,0,,2.0,91.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
