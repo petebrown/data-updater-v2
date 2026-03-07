@@ -11747,3 +11747,38 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Obiero,Zechariah Nahum,Z. Obiero,32,Attacking Midfielder,10,False,0,,0,,2.0,91.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
 2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
 2026-03-03,Tranmere Rovers,away,4-4-1-1,Andy Crosby,Kenneh,Nohan,N. Kenneh,42,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Norman,Cameron Pearce,C. Norman,2,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-32o26ls8zmlnnl91vlpd7oded,J. Lowe
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Brough,Patrick John,P. Brough,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Patrick,Omari Joshua Curtis,O. Patrick,11,Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,73.0,Injury,,,2.0,,,s-8cithel8o62otbmjhvmjy33yt,J. Murphy
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Murphy,Joseph,J. Murphy,13,Goalkeeper,1,False,1,72,0,,2.0,73.0,Injury,s-pfu0j7xf48iklqfyr3fmh4dm,J. Barrett,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Lowe,Jason John,J. Lowe,16,Defender,2,True,1,38,0,,2.0,74.0,Tactical,s-3kemfwng2z3s7yhkgemf37qh,C. Norman,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-71or1ne6d9zuo038qdt6vcvoq,L. Warrington
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Blacker,Billy Rolfe,B. Blacker,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Warrington,Lewis Wesley,L. Warrington,25,Midfielder,10,False,0,,0,,2.0,46.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Plant,James John,J. Plant,26,Midfielder,7,False,0,,0,,2.0,73.0,Tactical,s-bwzdtjy3fmtv42d91vnnof84,M. Dickov,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Negru,Stephan,S. Negru,28,Defender,6,False,0,,0,,1.0,34.0,Injury,s-cx80bpmc1tu0565b5is4hn0t1,A. McGowan,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Ironside,Joe Samuel,J. Ironside,29,Striker,9,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,McGowan,Aaron Joseph,A. McGowan,30,Substitute,,False,0,,0,,,34.0,Injury,,,1.0,,,s-7ysjsg2vz5dgbm9pzvbx9u904,S. Negru
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Dickov,Max,M. Dickov,31,Substitute,,False,0,,0,,,73.0,Tactical,,,2.0,,,s-3avfwbde1n5ti7w690ve0cges,J. Plant
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Obiero,Zechariah Nahum,Z. Obiero,32,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-03-07,Tranmere Rovers,home,4-5-1,Andy Parkinson,Kenneh,Nohan,N. Kenneh,42,Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Hudson,Mathew Anthony,M. Hudson,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Pett,Thomas George,T. Pett,4,Midfielder,4,True,0,,0,,2.0,93.0,Tactical,s-48w5ldw9l0dispj8096aq3cwk,K. Taylor,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Daniels,Donervon Joseph,D. Daniels,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Nguemkam Monthé,Emmanuel Gaëtan,M. Monthé,6,Defender,6,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Ellis Taylor,Kane,K. Taylor,7,Substitute,,False,0,,0,,,93.0,Tactical,,,2.0,,,s-4y3hm9ljv62c5jswanl0gk5,T. Pett
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Woods,Ryan Michael,R. Woods,8,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Fondop-Talom,Karl Mike,M. Fondop-Talom,9,Striker,10,False,0,,0,,2.0,84.0,Tactical,s-555ikrgh0veemzf7reasmqok5,J. Garner,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Stevens,Jack Finlay,J. Stevens,11,Midfielder,11,False,1,42,0,,2.0,76.0,Tactical,s-dfm4vwns596gts9uebkw3eh2h,J. Hawkes,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Garner,Joseph Alan,J. Garner,14,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-1wg80wp2dm65sm8f29x2w46ax,M. Fondop-Talom
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Drummond,Kane Omar Earl,K. Drummond,15,Midfielder,7,False,0,,0,,2.0,84.0,Tactical,s-c88j7c4v5raimwoeh7dc7xlka,O. Hammond,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Sutton,William Joseph,W. Sutton,16,Defender,2,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Graham Kavanagh,Calum,C. Kavanagh,17,Striker,9,False,0,,0,,2.0,83.0,Tactical,s-4feqyq3ymoprrmpe3ytm2mmms,K. Payne,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Hawkes,Joshua Stuart,J. Hawkes,21,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-8z9liab2gswxmwdwuu115ilm,J. Stevens
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Robson,Jamie David,J. Robson,24,Defender,3,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Payne,Kai Anthony,K. Payne,26,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-1bivsk6runns22891knqiihd6,C. Kavanagh
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Hammond,Oliver Jack,O. Hammond,27,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-1ll8mvlfzvflo0fvnd5oiizh0,K. Drummond
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Donaghy,Thomas Patrick,T. Donaghy,31,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Kembo Simeu,Dynel Brown,D. Simeu,40,Substitute,,False,0,,0,,,,,,,,,,,
