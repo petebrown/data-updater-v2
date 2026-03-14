@@ -11782,3 +11782,38 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Hammond,Oliver Jack,O. Hammond,27,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-1ll8mvlfzvflo0fvnd5oiizh0,K. Drummond
 2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Donaghy,Thomas Patrick,T. Donaghy,31,Substitute,,False,0,,0,,,,,,,,,,,
 2026-03-07,Oldham Athletic,away,4-4-2,Micky Mellon,Kembo Simeu,Dynel Brown,D. Simeu,40,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Wright Bennett,Rhys Joseph,R. Bennett,2,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Potter,Finley,F. Potter,5,Defender,6,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Bonds,Elliot Michael,E. Bonds,6,Attacking Midfielder,7,True,0,,0,,2.0,77.0,Tactical,s-5dsht0mnmpm2asallpju46ms5,M. Virtue-Thick,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Osong,Detlef Esapa,E. Osong,7,Striker,10,False,0,,0,,2.0,67.0,Tactical,s-809e6gwb3fzbxwhnj093sj7ro,W. Davies,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Virtue-Thick,Matthew Joseph,M. Virtue-Thick,8,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-btlomqnhw2ft72iwg7xbaoh2i,E. Bonds
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Davies,William James,W. Davies,9,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-15rpj65mjpva41bvk0yp6jgus,E. Osong
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Helm,Mark David,M. Helm,10,Attacking Midfielder,11,False,0,,0,,2.0,77.0,Tactical,s-2up11d7pdbrcs07x1123tzg9g,C. McLean,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Norwood,James Thomas,J. Norwood,11,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-7bnx6cs1qni5zjkz683rdy1g5,C. Evans
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Lynch,Jay Anthony,J. Lynch,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Ennis,Ethan,E. Ennis,16,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Evans,Chedwyn Michael,C. Evans,17,Striker,9,False,0,,0,,2.0,66.0,Tactical,s-1r9aj50371x6f0xf7mmvldz9x,J. Norwood,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Neal,Harrison,H. Neal,20,Defensive Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Powell,Joshua Alan,J. Powell,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Clark,Mitchell Reece,M. Clark,24,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Rooney,Shaun Antony,S. Rooney,26,Defender,5,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Haughey,Conor,C. Haughey,35,Defender,4,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,Hewitson,Luke,L. Hewitson,37,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-14,Fleetwood Town,home,3-1-4-2,Matt Lawlor,McLean,Crispin,C. McLean,38,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-h4g0ji8lk43f7zcpl79henai,M. Helm
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Norman,Cameron Pearce,C. Norman,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Brough,Patrick John,P. Brough,3,Midfielder,3,False,1,43,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Smith,Nathan James,N. Smith,5,Defender,5,False,1,38,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Whitaker,Charlie Jay,C. Whitaker,7,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-167itb6gp221yil6lln017nys,Z. Obiero
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Patrick,Omari Joshua Curtis,O. Patrick,11,Attacking Midfielder,11,False,0,,0,,2.0,64.0,Tactical,s-az1nx89lrs221wy3dy46za2hg,S. Solomon,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Lowe,Jason John,J. Lowe,16,Substitute,,False,0,,0,,,82.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Solomon,Sol William Leonard,S. Solomon,17,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Blacker,Billy Rolfe,B. Blacker,24,Midfielder,8,False,0,,0,,2.0,70.0,Tactical,s-71or1ne6d9zuo038qdt6vcvoq,L. Warrington,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Warrington,Lewis Wesley,L. Warrington,25,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-14sq9h8jlgoymbi6x6rv387bo,B. Blacker
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Plant,James John,J. Plant,26,Substitute,,False,0,,0,,,82.0,Tactical,,,2.0,,,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Negru,Stephan,S. Negru,28,Defender,6,False,0,,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Ironside,Joe Samuel,J. Ironside,29,Striker,9,True,0,,0,,2.0,82.0,Tactical,s-32o26ls8zmlnnl91vlpd7oded,J. Lowe,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,McGowan,Aaron Joseph,A. McGowan,30,Defender,4,False,0,,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Obiero,Zechariah Nahum,Z. Obiero,32,Attacking Midfielder,10,False,1,42,0,,2.0,64.0,Tactical,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-03-14,Tranmere Rovers,away,3-4-2-1,Pete Wild,Kenneh,Nohan,N. Kenneh,42,Midfielder,7,False,0,,0,,2.0,82.0,Tactical,s-3avfwbde1n5ti7w690ve0cges,J. Plant,,,,,
