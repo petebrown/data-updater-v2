@@ -11924,3 +11924,39 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-03-21,Swindon Town,away,4-4-2,Ian Holloway,McGregor,Joel David,J. McGregor,33,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-4uywqjm0i2ik5cwhulbmzxi39,R. Tafazolli
 2026-03-21,Swindon Town,away,4-4-2,Ian Holloway,Naylor Kirkman,Billy,B. Kirkman,34,Substitute,,False,0,,0,,,,,,,,,,,
 2026-03-21,Swindon Town,away,4-4-2,Ian Holloway,Oldaker,Darren Joseph Norman,D. Oldaker,44,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Cox,Matthew Aidan,M. Cox,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Anderson,Thomas Robert,T. Anderson,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Boyle,William Sam Douglas Harry,W. Boyle,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Clucas,Samuel Raymond,S. Clucas,6,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-bhidwbq7duvfkqc3d21dbz2fo,T. Ojinnaka
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Lloyd,George Robert Lawrence,G. Lloyd,9,Substitute,,False,0,,0,,,95.0,Tactical,,,2.0,,,s-3zw3uj9zqca10oesz95aw6kno,I. Morgan
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Scully,Anthony Richard,A. Scully,11,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Brook,William Michael,W. Brook,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Perry,Taylor,T. Perry,14,Substitute,,False,0,,0,,,74.0,Tactical,,,2.0,,,s-z34u0r64q9t64z0cwwr2zf9w,B. Ihionvien
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Freeman,Nicholas Scott Edward,N. Freeman,16,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Morgan,Iwan Tomas,I. Morgan,19,Attacking Midfielder,11,False,0,,0,,2.0,95.0,Tactical,s-8e7i5qtbmz3ikj050mf4ef4h6,G. Lloyd,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Kabia,Ismeal,I. Kabia,20,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Ojinnaka,Temple,T. Ojinnaka,22,Midfielder,8,False,0,,0,,2.0,80.0,Tactical,s-dztjfq21ncf792va28btn31ed,S. Clucas,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Bernard Ruffels,Joshua Andrew,J. Ruffels,25,Defender,4,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Stubbs,Sam Alan,S. Stubbs,26,Defender,6,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Marquis,John Edward,J. Marquis,27,Attacking Midfielder,10,True,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Berkoe,Kevin Nana Yaw,K. Berkoe,30,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Gray,Will,W. Gray,43,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Shrewsbury Town,home,3-4-2-1,Gavin Cowan,Ihionvien,Bradley Osezele Akhigbe Philip,B. Ihionvien,48,Striker,9,False,0,,0,,2.0,74.0,Tactical,s-75lptyj9mjvb2zyupi4fnnox5,T. Perry,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Brough,Patrick John,P. Brough,3,Midfielder,3,False,1,86,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,10,False,0,,0,,2.0,61.0,Tactical,s-40f8em9vrvvhtnpsjf2dswf6d,K. Woolery,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Finley,Samuel Joseph,S. Finley,8,Midfielder,7,True,0,,0,,2.0,68.0,Tactical,s-4k6nbdla5or3o2bdgfal2c355,O. Patrick,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Dennis,Kristian,K. Dennis,9,Substitute,,False,0,,0,,,78.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Patrick,Omari Joshua Curtis,O. Patrick,11,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Barrett,Jack Joseph,J. Barrett,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Joseph,Jayden,J. Joseph,14,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-cxxhe0dwp3wi35c28spse4l7u,N. Kenneh
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Blacker,Billy Rolfe,B. Blacker,24,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Warrington,Lewis Wesley,L. Warrington,25,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Plant,James John,J. Plant,26,Substitute,,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Negru,Stephan,S. Negru,28,Defender,6,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Ironside,Joe Samuel,J. Ironside,29,Striker,9,False,0,,0,,2.0,78.0,Tactical,s-9cxi2qzpa1d00mep1n2b0uv2t,K. Dennis,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,McGowan,Aaron Joseph,A. McGowan,30,Defender,4,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Maroši,Marko,M. Maroši,33,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Woolery,Kaiyne River,K. Woolery,41,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-04-03,Tranmere Rovers,away,3-5-1-1,Pete Wild,Kenneh,Nohan,N. Kenneh,42,Midfielder,11,False,0,,0,,2.0,61.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
