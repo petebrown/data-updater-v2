@@ -12247,3 +12247,470 @@ game_date,team_name,team_venue,formation,team_manager,surname,forename,short_nam
 2026-08-15,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Anderson,Thomas Robert,T. Anderson,26,Substitute,,False,0,,0,,,,,,,,,,,
 2026-08-15,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Gbodé,Joseph Paul Caleb,J. Gbodé,27,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-8e7i5qtbmz3ikj050mf4ef4h6,G. Lloyd
 2026-08-15,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Aiston,Hugo,H. Aiston,46,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-48f5b6yi39w8smf0iilpvy25m,A. Jude-Boyd
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Smith,Jackson William,J. Smith,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Headley,Jaheim Anthony,J. Headley,3,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Hall,Connor,C. Hall,5,Substitute,,False,0,,0,,,83.0,Tactical,,,2.0,,,s-8q4vt9778kxds17wm6e9hdoiy,L. Montsma
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Lawrence-Gabriel,Jordan Jay,J. Lawrence-Gabriel,6,Defender,2,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Byers,George William,G. Byers,7,Defensive Midfielder,4,True,0,,0,,1.0,27.0,Injury,s-bty8uawifcuwgnzo2cin9eej8,R. Walters,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Garrity,Benjamin Matthew,B. Garrity,8,Substitute,,False,1,86,0,,,83.0,Tactical,,,2.0,,,s-b6n4iy2sxm1rej4gnq0pseoa2,M. Faal
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Faal,Modou Lamin,M. Faal,9,Striker,9,False,0,,0,,2.0,83.0,Tactical,s-aclrl318d420oqe1fjgl1m3xm,B. Garrity,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Dempsey,Kyle Michael,K. Dempsey,10,Defensive Midfielder,8,False,1,5,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Hernández Mayea,Onel Lázaro,O. Hernández,11,Attacking Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Terry,Mason,M. Terry,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Lynch,Oliver David James,O. Lynch,14,Attacking Midfielder,10,False,0,,0,,2.0,75.0,Tactical,s-4k2rilnkcrgads78hy9gs9ca2,T. Simpson,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Gordon,Liam Spencer,L. Gordon,15,Defender,3,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Simpson,Tyreece Tyson Nesbett,T. Simpson,17,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-aogdy4fw59x9x8uis4kqiu9lg,O. Lynch
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Waine,Benjamin Peter,B. Waine,19,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-byayx0gvvq9n0xiw5okq8xhck,G. Hall
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Montsma,Lewis Lee,L. Montsma,22,Defender,6,False,0,,0,,2.0,83.0,Tactical,s-2uyrcl2hf5xunxm8zm98kh1at,C. Hall,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Humphreys-Grant,Cameron Lisceous,C. Humphreys,25,Defender,5,False,0,,0,,,,,,,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Hall,George Cardinal Joseph,G. Hall,33,Attacking Midfielder,11,False,0,,0,,2.0,84.0,Tactical,s-e713hl3clivldop8wln53rsyy,B. Waine,,,,,
+2026-08-22,Port Vale,home,4-2-3-1,Jon Brady,Walters,Rhys Anthony,R. Walters,38,Substitute,,False,0,,0,,,27.0,Injury,,,1.0,,,s-6hrtxdf59nba5ietwyfe3b2t,G. Byers
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Substitute,,False,0,,0,,,59.0,Tactical,,,2.0,,,s-wd3u2p0i94dx7v3ndihxxj9x,P. Brough
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Substitute,,False,0,,0,,,53.0,Injury,,,2.0,,,s-10icpb02anzchxfluwdq6lj6y,H. Male
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,6,False,1,68,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,1,90+10,0,,,59.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,1,79,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,59.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,2.0,53.0,Injury,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Scott,Oliver McKenzie,O. Scott,14,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Davies,Jordan Andrew,J. Davies,15,Attacking Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Attacking Midfielder,11,False,0,,0,,2.0,84.0,Tactical,s-3w07locv18kflergbzmq7naxg,C. Veevers,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Brough,Patrick John,P. Brough,23,Defender,3,False,0,,0,,2.0,59.0,Tactical,s-6hwhvoei0suc6h4lvywtcmolw,J. Slater,,,,,
+2026-08-22,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Mann,Samuel Ernest,S. Mann,27,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Wright,Jordan Ian,J. Wright,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Evans,Cameron James,C. Evans,2,Defensive Midfielder,8,False,0,,0,,2.0,71.0,Tactical,s-9jsfwpphvnj58t6xyk0gfs7x0,M. Dibley-Dias,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Cameron,Kyle Milne,K. Cameron,4,Defender,6,True,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Jenkins,Lee Thomas,L. Jenkins,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Brennan,Ciarán Thomas,C. Brennan,6,Defensive Midfielder,4,False,0,,0,,2.0,78.0,Tactical,s-13xoxllcw5mdof8pjsprqdfkk,J. Thomas,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Evans,Kieron Thomas,K. Evans,7,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-bs0jlp26ka25k5b0g91eyv21g,Y. Bamba
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Smith,Matthew Robert,M. Smith,8,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Gwengwe,Shaquille,S. Gwengwe,9,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Biggins,Harrison,H. Biggins,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Thomas,Joe Ethan,J. Thomas,12,Substitute,,False,0,,0,,,78.0,Tactical,,,2.0,,,s-1zr5s6y8t4o30sxsc4y74u4iy,C. Brennan
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Merritt,Alfie,A. Merritt,17,Defender,3,False,0,,0,,2.0,46.0,Tactical,s-8gw39pecincqpt5slh3z5cbh0,D. Sassi,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Bamba,Yahaya Abdoul,Y. Bamba,20,Attacking Midfielder,7,False,0,,0,,2.0,71.0,Tactical,s-csruc76o8g89l0jqqhglhqxre,K. Evans,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Norman,Cameron Pearce,C. Norman,22,Defender,2,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Dibley-Dias,Matthew Max,M. Dibley-Dias,24,Substitute,,False,1,84,0,,,71.0,Tactical,,,2.0,,,s-2b38krqhqyp67lqbihbz3spux,C. Evans
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Turner,Jake Edward,J. Turner,25,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Doidge,Christian Rhys,C. Doidge,27,Striker,9,False,1,43,0,,2.0,54.0,Injury,s-e56pirwk5zxn6qb60b85jbrbo,C. Jarvis,,,,,
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Sassi,Daniel,D. Sassi,34,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-f48wu03fisvw61a1pnvhhol5g,A. Merritt
+2026-08-29,Newport County,home,4-2-3-1,Hayden Mullins,Jarvis,Cole Lewis,C. Jarvis,40,Substitute,,False,0,,0,,,54.0,Injury,,,2.0,,,s-71xg650qcs8yibhrumgvdejth,C. Doidge
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,1,15,0,,2.0,65.0,Tactical,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-6hwhvoei0suc6h4lvywtcmolw,J. Slater
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,6,False,0,,0,,2.0,66.0,Tactical,s-cstdv7oams463h03v956rwums,D. Jones,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,78.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,1,73,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,66.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Attacking Midfielder,7,False,0,,0,,2.0,80.0,Tactical,s-wd3u2p0i94dx7v3ndihxxj9x,P. Brough,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,78.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Brough,Patrick John,P. Brough,23,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro
+2026-08-29,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-6xjftfuwhkbs39xfc3phdbyl1,N. Smith
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,1,79,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,1,43,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Defender,6,False,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,68.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Substitute,,False,0,,0,,,56.0,Tactical,,,2.0,,,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,1,90,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,61.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Attacking Midfielder,7,False,0,,0,,2.0,56.0,Tactical,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Striker,9,False,0,,0,,2.0,68.0,Tactical,s-5aesa1aku0dgqs72xw04245ck,D. Kamara,,,,,
+2026-09-05,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Hudson,Mathew Anthony,M. Hudson,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Scott-Morriss,Gus Henry Roy,G. Scott-Morriss,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Robson,Jamie David,J. Robson,3,Defender,3,False,1,11,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Pett,Thomas George,T. Pett,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Daniels,Donervon Joseph,D. Daniels,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Nguemkam Monthé,Emmanuel Gaëtan,M. Monthé,6,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Appiah-Forson,Keenan,K. Appiah-Forson,7,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Norburn,Oliver Lewis,O. Norburn,8,Defensive Midfielder,8,True,1,8,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Fondop-Talom,Karl Mike,M. Fondop,9,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-cfctx4jjyzrqgeu1kcyt60f10,E. Nevitt
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Graham Kavanagh,Calum,C. Kavanagh,10,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-7m5vale7ft0lczh87w18parfu,T. Hill
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Drummond,Kane Omar Earl,K. Drummond,15,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Fawunmi,Favour Ayobamide Daniel,F. Fawunmi,17,Attacking Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Nevitt,Elliott Lloyd,E. Nevitt,20,Striker,9,False,0,,0,,2.0,46.0,Tactical,s-1wg80wp2dm65sm8f29x2w46ax,M. Fondop,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Wilson,Aston Craig,A. Wilson,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Delaney,Ryan Liam,R. Delaney,23,Defender,6,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Temple,Lewis John,L. Temple,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Payne,Kai Anthony,K. Payne,26,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-05,Oldham Athletic,away,4-2-3-1,Micky Mellon,Hill,Thomas Daniel,T. Hill,30,Attacking Midfielder,10,False,0,,0,,2.0,46.0,Tactical,s-1bivsk6runns22891knqiihd6,C. Kavanagh,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Wright,Oliver Lennon George,O. Wright,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,McManus,Conor James,C. McManus,3,Midfielder,3,False,1,86,0,,2.0,94.0,Tactical,s-326a13ciizysarn62z05flm38,S. Kendall,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Smith,Andrew John,A. Smith,5,Defender,6,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Chapman Hale,Ronan Aiden Connolly Shea,R. Hale,10,Striker,9,False,0,,0,,2.0,82.0,Injury,s-9cdo9phwt8juxf4pnmb8u28lw,L. Sillah,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Sillah,Lamin,L. Sillah,11,Substitute,,False,0,,0,,,82.0,Injury,,,2.0,,,s-b80wetkfsy6m7s189x6mfx2ax,R. Hale
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,McCleary,Garath James,G. McCleary,12,Substitute,,False,0,,0,,,55.0,Injury,,,2.0,,,s-74gnlzhsocr3xh66dknqozxuc,H. Waldock
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Holtam,Taite Sean,T. Holtam,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,McKenzie,Robbie,R. McKenzie,14,Midfielder,7,False,1,26,0,,2.0,94.0,Tactical,s-7jyh27577h3fbewzeirocj6z8,M. Luxton,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Brophy,James Robert,J. Brophy,16,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Kendall,Sheldon,S. Kendall,18,Substitute,,False,0,,0,,,94.0,Tactical,,,2.0,,,s-6z5pejhpzmtm686r1jrbrvc44,C. McManus
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Beckles,Omar Jerome,O. Beckles,19,Defender,5,True,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Daley,Jack,J. Daley,20,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-73kwwa65op350vbecq4g8avis,L. Dobbs
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Freeman,Nicholas Scott Edward,N. Freeman,22,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Waldock,Harry Lee,H. Waldock,24,Attacking Midfielder,11,False,0,,0,,2.0,55.0,Injury,s-4oogur7f8tfx3z011ap58ao5x,G. McCleary,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Dobbs,Logan,L. Dobbs,26,Defender,4,False,0,,0,,2.0,80.0,Tactical,s-53dsj3wyaiko9noyb5u3lddec,J. Daley,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Luxton,Michael,M. Luxton,27,Substitute,,False,0,,0,,,94.0,Tactical,,,2.0,,,s-d6tb58uoasvgssujtnypwhmy2,R. McKenzie
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,Booth,Sullivan,S. Booth,30,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-12,Gillingham,home,3-4-2-1,Gareth Ainsworth,King,Eli Josef,E. King,34,Midfielder,8,False,1,35,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,2.0,79.0,Tactical,s-5aesa1aku0dgqs72xw04245ck,D. Kamara,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,6,False,1,31,0,,2.0,79.0,Tactical,s-d3vtam8x9pt8sbmhzx3hjg5ck,G. Nevett,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,1,89,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,70.0,Tactical,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Defensive Midfielder,4,False,0,,0,,2.0,70.0,Tactical,s-a1muz32ocg2650ll5kjc02u39,T. Conlon,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Davies,Jordan Andrew,J. Davies,15,Substitute,,False,0,,0,,,58.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-6hwhvoei0suc6h4lvywtcmolw,J. Slater
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Attacking Midfielder,7,False,0,,0,,2.0,58.0,Tactical,s-b1ljvbqir66r3v9zb9f9a3fu1,J. Davies,,,,,
+2026-09-12,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Substitute,,False,0,,0,,,79.0,Tactical,,,2.0,,,s-6xjftfuwhkbs39xfc3phdbyl1,N. Smith
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Bycroft,Jack Thomas,J. Bycroft,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Samuel,Lakyle,L. Samuel,2,Midfielder,2,False,0,,0,,2.0,60.0,Tactical,s-156hlg4mne48ct15fm5qtpjo5,G. Edwards,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Woodhouse,Luca Jack Alexander,L. Woodhouse,3,Defender,4,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Fitzwater,Jackson Joseph,J. Fitzwater,5,Defender,5,True,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Taylor,Jack Paul,J. Taylor,6,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Edwards,Gwion Dafydd Rhys,G. Edwards,7,Substitute,,False,0,,0,,,60.0,Tactical,,,2.0,,,s-caae5mlr6rduhve9pzc9evw2c,L. Samuel
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Perry,Taylor,T. Perry,8,Substitute,,False,0,,0,,,86.0,Tactical,,,2.0,,,s-6qp481f9ke8vcrvu9gnsbq4lx,J. Doyle-Hayes
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Gordon,Joshua Luke,J. Gordon,10,Striker,10,False,1,45,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Cole,Reece George,R. Cole,12,Attacking Midfielder,9,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Cummins,Charlie James,C. Cummins,16,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Oakes,Liam Andrew,L. Oakes,18,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Birch,George Edward,G. Birch,20,Substitute,,False,0,,0,,,67.0,Tactical,,,2.0,,,s-6rzo9g92tym87cby8b65rubit,D. Rose
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Phillips,Frankie,F. Phillips,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Sutherland,Ethan,E. Sutherland,23,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Harper,Vincent McDyess,V. Harper,24,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Doyle-Hayes,Jake Billy,J. Doyle-Hayes,31,Midfielder,7,False,0,,0,,2.0,86.0,Tactical,s-75lptyj9mjvb2zyupi4fnnox5,T. Perry,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,Rose,Daniel Antony,D. Rose,32,Striker,11,False,0,,0,,2.0,67.0,Tactical,s-22cbcyhgipgdo5e7fxmdgnjf8,G. Birch,,,,,
+2026-09-19,Exeter City,home,3-4-1-2,Matt Taylor,James,Edward George Martin,E. James,40,Defender,6,False,1,52,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,1,75,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,5,False,1,30,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,87.0,Tactical,s-3w07locv18kflergbzmq7naxg,C. Veevers,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,71.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Davies,Jordan Andrew,J. Davies,15,Attacking Midfielder,7,False,0,,0,,2.0,62.0,Tactical,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Substitute,,False,0,,0,,,62.0,Tactical,,,2.0,,,s-b1ljvbqir66r3v9zb9f9a3fu1,J. Davies
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Striker,9,False,1,65,0,,2.0,71.0,Tactical,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside,,,,,
+2026-09-19,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,6,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Male,Harrison Darren,H. Male,12,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Scott,Oliver McKenzie,O. Scott,14,Midfielder,3,False,1,50,0,,2.0,63.0,Tactical,s-7h2tu0w2gdzma1pzi4jhcsavo,B. Faulkner,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Substitute,,False,0,,0,,,63.0,Tactical,,,2.0,,,s-5qxi6r29hhgxjfjmbfdjfsnsa,O. Scott
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-cwndquajszogvk6gktw5phv4l,C. Baker-Richardson
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Baker-Richardson,Courtney Romello,C. Baker-Richardson,19,Striker,10,False,0,,0,,2.0,64.0,Tactical,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Midfielder,8,False,0,,0,,2.0,89.0,Tactical,s-8qdabfrlh03mad9iv7ob6knis,S. Mann,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,True,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Brough,Patrick John,P. Brough,23,Defender,4,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Striker,9,False,0,,0,,2.0,94.0,Tactical,s-m7jduxsc43hpat3pqqetvitw,J. McEvilly,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Warrington,Lewis Wesley,L. Warrington,25,Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Plant,James John,J. Plant,26,Midfielder,2,False,0,,0,,2.0,64.0,Tactical,s-cstdv7oams463h03v956rwums,D. Jones,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Mann,Samuel Ernest,S. Mann,27,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-3w07locv18kflergbzmq7naxg,C. Veevers
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,McEvilly,Jack,J. McEvilly,28,Substitute,,False,0,,0,,,94.0,Tactical,,,2.0,,,s-5aesa1aku0dgqs72xw04245ck,D. Kamara
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Jones,Dylan,D. Jones,29,Substitute,,False,0,,0,,,64.0,Tactical,,,2.0,,,s-3avfwbde1n5ti7w690ve0cges,J. Plant
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-22,Tranmere Rovers,home,3-5-2,Darrell Clarke,Watson,Ryan James,R. Watson,44,Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Brook,William Michael,W. Brook,1,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,England,Isaac Samuel,I. England,4,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Boyle,William Sam Douglas Harry,W. Boyle,5,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Stubbs,Samuel Alan,S. Stubbs,6,Defender,5,True,0,,0,,2.0,68.0,Tactical,s-91eals00kx0rfeah17qgfvwno,H. Aiston,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Fletcher,Isaac Andrew,I. Fletcher,8,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-8e7i5qtbmz3ikj050mf4ef4h6,G. Lloyd
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Lloyd,George Robert Lawrence,G. Lloyd,9,Striker,10,False,0,,0,,2.0,46.0,Tactical,s-393wxtb58b9wmuwfy40ks30q2,I. Fletcher,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Sang,Thomas Roy,T. Sang,10,Midfielder,7,False,0,,0,,2.0,46.0,Tactical,s-9jn3712ode4yu3g0zi2wo6ec4,W. Gray,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Jude-Boyd,Arkell Nicholas Cecil,A. Jude-Boyd,17,Midfielder,2,False,1,65,0,,2.0,68.0,Tactical,s-bv8d7px7w6czvmgv6nn8bkff8,B. Pendleton,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Golding,Michael Heinz,M. Golding,20,Attacking Midfielder,9,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Gray,Will,W. Gray,21,Substitute,,False,1,90+2,0,,,46.0,Tactical,,,2.0,,,s-yhq5jc2vpb3c81d4altr0g6h,T. Sang
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Pendleton,Byron,B. Pendleton,22,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-48f5b6yi39w8smf0iilpvy25m,A. Jude-Boyd
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Lee,Isaac,Lee Isaac,23,Defender,4,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,da Cruz Sousa,Lino Gonçalo,L. Sousa,24,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Anderson,Thomas Robert,T. Anderson,26,Defender,6,False,1,42,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Gbodé,Joseph Paul Caleb,J. Gbodé,27,Striker,11,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Gregory,Cameron Akash James,C. Gregory,32,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Hall,Oliver Taylor,O. Hall,33,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-22,Shrewsbury Town,away,3-4-1-2,Gavin Cowan,Aiston,Hugo,H. Aiston,46,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-ei7qu2h9y32f07m3zjk87xxwp,S. Stubbs
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,6,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,89.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,2.0,61.0,Tactical,s-cstdv7oams463h03v956rwums,D. Jones,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,89.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Davies,Jordan Andrew,J. Davies,15,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Attacking Midfielder,7,False,0,,0,,2.0,71.0,Tactical,s-b1ljvbqir66r3v9zb9f9a3fu1,J. Davies,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Brough,Patrick John,P. Brough,23,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,MacAulay Ward,Jed,J. Ward,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Hancock,Mason Colin,M. Hancock,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Connolly,James Alfred,J. Connolly,4,Defender,6,True,1,35,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Burke,Harrison John,H. Burke,5,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Sprangler,Sven Michael,S. Sprangler,6,Defensive Midfielder,4,False,1,18,0,,2.0,58.0,Tactical,s-9zv54763h9x55ebvx8f2nb2wa,T. Sodje,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Evumena Sodje,Taione Richard,T. Sodje,7,Substitute,,False,0,,0,,,58.0,Tactical,,,2.0,,,s-7enjs04661229klg2g5uf6x91,S. Sprangler
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Dallas,Andrew Robert,A. Dallas,9,Attacking Midfielder,10,False,0,,0,,2.0,77.0,Tactical,s-1r8owdjpmvjknnwqqouyplsk5,A. Adomah,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Simper,Lewis Matthew,L. Simper,10,Attacking Midfielder,7,False,0,,0,,2.0,87.0,Tactical,s-422xt5gr8k3s4ecccfg5pcs2c,W. Etheridge,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Smith,Reece Andrew,R. Smith,11,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Moore,Isaac,I. Moore,15,Defensive Midfielder,8,False,1,82,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Pressley,Aaron Alex,A. Pressley,19,Striker,9,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Ahui,Elicha Sar-Shalom,E. Ahui,22,Defender,2,False,0,,0,,2.0,76.0,Tactical,s-7rju8wfssvfmucqmjgzluwul1,R. Leak,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Skura,Declan,D. Skura,25,Defender,5,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Leak,Ryan David,R. Leak,26,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-4orq7s3rm9gy45jjbfwcehlp0,E. Ahui
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Byrne Furlong,Walter James,J. Furlong,29,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Wooster,Thomas Charlie,T. Wooster,31,Substitute,,False,0,,0,,,,,,,,,,,
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Etheridge,Will,W. Etheridge,33,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-68emhvrwqi5m0q155ww2bzn1m,L. Simper
+2026-09-26,Walsall,away,4-2-3-1,Lee Grant,Adomah,Albert Danquah,A. Adomah,37,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-1vek7p5k9fsc83ss0pqlmhlgp,A. Dallas
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Naylor,Thomas Keith,T. Naylor,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,McFadzean,Kyle John,K. McFadzean,5,Defender,5,True,1,79,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Simpson,Jack Benjamin,J. Simpson,6,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Mandeville,Liam,L. Mandeville,7,Substitute,,False,0,,0,,,88.0,Tactical,,,2.0,,,s-33x02853ldv2wixj88k0xnk0k,L. Marsh
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Stirk,Ryan William,R. Stirk,8,Defensive Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Bryden,Fraser,F. Bryden,9,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Bonis,Lee,L. Bonis,10,Striker,9,False,1,21,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Marsh,Louie Joseph,L. Marsh,18,Attacking Midfielder,10,False,0,,0,,2.0,88.0,Tactical,s-6clm6ketc6tz6qqfk4comf2ll,L. Mandeville,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Gordon,Lewis Courtney,L. Gordon,19,Defender,3,False,0,,0,,2.0,87.0,Tactical,s-d9t5ctkicc9ep91kfkiurilwq,T. Pearce,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,McEachran,George James,G. McEachran,20,Defensive Midfielder,4,False,1,54,0,,2.0,88.0,Tactical,s-5qtvvfzhprrxgy206t5hbsnpw,K. Dyer,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Boot,Ryan Thomas William,R. Boot,23,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Markanday,Dilan Kumar,D. Markanday,24,Attacking Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Eccleston,Julian Junior Alexander,J. Eccleston,26,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-b3neg57qgikjlpp7q6oiuvbah,R. Hutton
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Dyer,Kiano Ramone,K. Dyer,27,Substitute,,False,0,,0,,,88.0,Tactical,,,2.0,,,s-bazw3ymh8pk8ju8ydwhkihjvt,G. McEachran
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Randall,Joel John,J. Randall,31,Attacking Midfielder,11,False,0,,0,,2.0,71.0,Tactical,s-307tfvtl56s1rf61x8kjevjzd,J. Koroma,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Hutton,Remeao Andrew,R. Hutton,33,Defender,2,False,0,,0,,2.0,87.0,Tactical,s-ecsvgou686cjcc75w9627ep78,J. Eccleston,,,,,
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Koroma,Joshua Abdulai,J. Koroma,37,Substitute,,False,0,,0,,,71.0,Tactical,,,2.0,,,s-1ur2h01o6jgewwzydb2caggoa,J. Randall
+2026-10-03,Chesterfield,home,4-2-3-1,Paul Cook,Pearce,Tom Mark,T. Pearce,46,Substitute,,False,0,,0,,,87.0,Tactical,,,2.0,,,s-f0sa0skucdf742t06hsmi8ne2,L. Gordon
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,1,57,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Finley,Samuel Joseph,S. Finley,8,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,1,41,0,,2.0,61.0,Tactical,s-5aesa1aku0dgqs72xw04245ck,D. Kamara,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,1,18,0,,2.0,61.0,Tactical,s-6q5iqhaxdzqhj3jt0eptjvbv9,S. Finley,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Okoro,Zane Kola,Z. Okoro,17,Attacking Midfielder,7,False,0,,0,,1.0,34.0,Injury,s-cstdv7oams463h03v956rwums,D. Jones,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Brough,Patrick John,P. Brough,23,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,61.0,Tactical,,,2.0,,,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Substitute,,False,0,,0,,,34.0,Injury,,,1.0,,,s-c76ovdk3vorl2e51o8ouesg0k,Z. Okoro
+2026-10-03,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Substitute,,False,0,,0,,,82.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Baker-Richardson,Courtney Romello,C. Baker-Richardson,19,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,66.0,Tactical,,,2.0,,,s-5aesa1aku0dgqs72xw04245ck,D. Kamara
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Attacking Midfielder,7,False,0,,0,,2.0,66.0,Tactical,s-3w07locv18kflergbzmq7naxg,C. Veevers,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Striker,9,False,0,,0,,2.0,82.0,Tactical,s-aral6zvx8qxkfqkqwb7ldfk5x,J. Ironside,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-10,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Eistrand Ramming,Nils Arvid,N. Ramming,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Tasker,Charlie Kian,C. Tasker,2,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Wilson,Kaiden Carlton Anthony,K. Wilson,3,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Hayes,Cian Jude,C. Hayes,7,Midfielder,7,False,0,,0,,2.0,68.0,Tactical,s-5gcmw0c2mok84fgh83m793oph,E. Dieseruvwe,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Gilmour,Harvey James,H. Gilmour,8,Defensive Midfielder,4,True,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Dieseruvwe,Emmanuel Aghogho Oluwafemi,E. Dieseruvwe,9,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-e4xeswr8cpdkmlhijuf7oonsa,C. Hayes
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Silcott-Duberry,Zain Rio,Z. Silcott-Duberry,11,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Adebayo-Rowling,Olutobi,T. Adebayo-Rowling,13,Defender,2,False,1,90+1,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Francis,Edward Albert,E. Francis,14,Substitute,,False,0,,0,,,88.0,Injury,,,2.0,,,s-48w5ldw9l0dispj8096aq3cwk,K. Taylor
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Adeeko,Babajide Ezekiel,B. Adeeko,17,Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Hannant,Luke James,L. Hannant,19,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Waller,Sam William John,S. Waller,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Ellis Taylor,Kane,K. Taylor,21,Midfielder,8,False,0,,0,,2.0,88.0,Injury,s-4cgwufn8y1tu58jdhf376lrl5,E. Francis,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Sherring,Sam,S. Sherring,26,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Beckwith,Samuel Wayne,S. Beckwith,33,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Brown,Dajaune Anthony,D. Brown,39,Striker,9,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Flint,Aden,A. Flint,44,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-10,Rochdale,away,4-1-4-1,Ian Watson,Middleton,Glenn Bell Dollar,G. Middleton,45,Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,1,51,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,1,71,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,2.0,75.0,Tactical,s-5aesa1aku0dgqs72xw04245ck,D. Kamara,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Defensive Midfielder,4,False,0,,0,,2.0,75.0,Tactical,s-7h2tu0w2gdzma1pzi4jhcsavo,B. Faulkner,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Male,Harrison Darren,H. Male,12,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Scott,Oliver McKenzie,O. Scott,14,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,75.0,Tactical,,,2.0,,,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Attacking Midfielder,7,False,0,,0,,2.0,65.0,Tactical,s-bd110gar9pn53vgz6aaib7h05,R. Watson,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-17,Tranmere Rovers,home,4-2-3-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Substitute,,False,0,,0,,,65.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Crichlow-Noble,Romoney Mylier Taylor,R. Crichlow-Noble,3,Substitute,,False,0,,0,,2.0,46.0,Tactical,s-6ozcdz0fi18zr9torv0hikz4l,J. Reeves,2.0,,,s-ccsiplg85gm3aokzhbkaezwno,Z. Williams
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Collinge,Daniele James,D. Collinge,4,Defender,5,True,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Senior,Adam Nicholas,A. Senior,5,Defender,2,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Issac Williams,Michael,Z. Williams,6,Defender,3,False,1,20,0,,2.0,46.0,Tactical,s-7f9fho50h0hwk4nkpavxmjvxm,R. Crichlow-Noble,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Knowles,Thomas Andrew,T. Knowles,7,Attacking Midfielder,7,False,0,,0,,2.0,46.0,Tactical,s-brbafvr9ywxvp65crgmhqp7xm,N. Ofoborh,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Lakin,Charlie James,C. Lakin,8,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Ofoborh,Nathan Nnamdi Ugochukwu Benjamin Asigboro,N. Ofoborh,10,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-5fqch6alo2epewa9vl33fm5wq,T. Knowles
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Kanu,Idris Sheka,I. Kanu,11,Attacking Midfielder,11,False,1,70,0,,2.0,77.0,Tactical,s-65fy7tw0mnh4rk58ppmcxgg0k,D. Ajayi,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Cox,Matthew Aidan,M. Cox,13,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Comley,Brandon,B. Comley,14,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Ajayi,Oyindamola Oluwatobi Peter,D. Ajayi,17,Substitute,,False,0,,0,,,77.0,Tactical,,,2.0,,,s-4k6d5x78udmylpjif9pavw9ux,I. Kanu
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Smith,Kane John,K. Smith,18,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Tshimanga,Kabongo,K. Tshimanga,20,Striker,9,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Gallagher,Oisín Jack,O. Gallagher,22,Defensive Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Reeves,Jake Kenny,J. Reeves,23,Substitute,,False,0,,0,,,103.0,Injury,,,2.0,,,s-7f9fho50h0hwk4nkpavxmjvxm,R. Crichlow-Noble
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Hrvatsko Tavares,Nikola,N. Tavares,25,Defender,6,False,0,,0,,2.0,84.0,Tactical,s-4pn63hn583ipnzfjs36wpzlk9,M. Kenlock,,,,,
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,George-Kenlock,Myles Lewis,M. Kenlock,30,Substitute,,False,0,,0,,,84.0,Tactical,,,2.0,,,s-1zsxa2phjowlyyopbr14fp4a1,N. Tavares
+2026-10-17,Barnet,away,4-2-3-1,Dean Brennan,Haralambous,Anthony,A. Haralambous,36,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Jeacock,Zachary Anton John,Z. Jeacock,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Maxwell,James Ian,J. Maxwell,3,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-4hepxc6hgi05deozp1qa986xg,J. Powell
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,O'Brien-Whitmarsh,Joseph Paul,J. O'Brien-Whitmarsh,4,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Guthrie,Jonathan Neil,J. Guthrie,5,Defender,4,True,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Moore,Elliott Jordan,E. Moore,6,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Hoskins,Samuel Tobias,S. Hoskins,7,Substitute,,False,0,,0,,,76.0,Tactical,,,2.0,,,s-6bejhzrjgg7dz6cp6s45rah91,J. Donacien
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Evans,Lee,L. Evans,8,Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Warhurst,Matthew Ethan,M. Warhurst,9,Striker,9,False,0,,0,,2.0,70.0,Tactical,s-983yy0ez1onytwj2k1nqw61p0,N. Opoku,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,List,Elliott Ricardo Wignal,E. List,10,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-dmr7vxc75op7turwg7un28ted,C. Lemonheigh-Evans
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Fornah,Tyrese Momodu,T. Fornah,14,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Wormleighton,Joseph Oliver,J. Wormleighton,16,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Opoku Onyina,Nathaniel,N. Opoku,17,Substitute,,False,0,,0,,,70.0,Tactical,,,2.0,,,s-7g2jvlhxd1eu6j5aanika5c0k,M. Warhurst
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Dale,Owen,O. Dale,19,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Powell,Joshua Alan,J. Powell,22,Midfielder,3,False,0,,0,,2.0,70.0,Tactical,s-2keivj3cwajix0jrytpl4ozmy,J. Maxwell,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Lemonheigh-Evans,Connor,C. Lemonheigh-Evans,24,Midfielder,7,False,0,,0,,2.0,70.0,Tactical,s-em4c95gqhy837kpw3sbx22961,E. List,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Dadge,James Michael,J. Dadge,31,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Dyche,Max,M. Dyche,35,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Northampton Town,home,3-4-2-1,Chris Hogg,Donacien,Janoi Denzil Naieme,J. Donacien,44,Defender,6,False,0,,0,,2.0,76.0,Tactical,s-9ofafrg1dmb8a90ogdj3nnz6d,S. Hoskins,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Defensive Midfielder,8,True,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Attacking Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Scott,Oliver McKenzie,O. Scott,14,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Defender,2,False,1,90+1,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Attacking Midfielder,7,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-20,Tranmere Rovers,away,4-2-3-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Defensive Midfielder,4,False,1,42,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Mannone,Vito,V. Mannone,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Gordon,Kellan Sheene,K. Gordon,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Arganese-McDermott,Pele,Pele Arganese-McDermott,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Farquharson,Priestley Tyler Heginbottom,P. Farquharson,6,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Watson,Louie Shaun,L. Watson,8,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Orsi-Dadomo,Danilo Harley,D. Orsi,9,Striker,9,False,0,,0,,2.0,69.0,Tactical,s-2hzoujegeervujm52v91grv8,P. Aderoju,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Duke-McKenna,Stephen Winston,S. Duke-McKenna,10,Attacking Midfielder,7,False,0,,0,,2.0,89.0,Tactical,s-bfwtsi9b7791cqd80rqpl79qs,N. Tinsdale,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Aderoju,Oluwalopemiwa Adedunmola,P. Aderoju,11,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-csw6i5ceobus79rw3y5uaczu2,D. Orsi
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Richards,Lewis Paul Jimmy,L. Richards,12,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Michalski,Nicholas Jake,N. Michalski,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Russell,Jonathan,J. Russell,16,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Kamara,Osman Hassan,O. Kamara,17,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Pereira Greives,Dion Enrico,D. Pereira,19,Substitute,,False,0,,0,,,69.0,Tactical,,,2.0,,,s-d6yqv7j959j2oefwn5swvkr9w,A. Adeyemo
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Arthurs,Jude Robert,J. Arthurs,20,Defensive Midfielder,4,True,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Adeyemo,Adetokunbo Bamidele,A. Adeyemo,22,Attacking Midfielder,11,False,0,,0,,2.0,69.0,Tactical,s-9cit4kku34bi2uucxxo4km6zt,D. Pereira,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Morgan,Dylan James,D. Morgan,27,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Tinsdale,Nathan,N. Tinsdale,28,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-f2o93fidub5hzdxp0jikgfd9l,S. Duke-McKenna
+2026-10-24,Crawley Town,home,4-2-3-1,Kevin Blackwell,Jennings,Kai,K. Jennings,30,Defensive Midfielder,8,False,1,32,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Midfielder,2,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Midfielder,3,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Midfielder,7,True,1,76,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,11,False,1,67,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Midfielder,8,False,0,,0,,2.0,57.0,Tactical,s-5aesa1aku0dgqs72xw04245ck,D. Kamara,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Scott,Oliver McKenzie,O. Scott,14,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Defender,6,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,57.0,Tactical,,,2.0,,,s-a1muz32ocg2650ll5kjc02u39,T. Conlon
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Striker,9,False,0,,0,,2.0,46.0,Tactical,s-4l0n6z5cqyv9kwxqhwaiyib1m,C. Whitaker,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Defender,4,False,0,,0,,,,,,,,,,,
+2026-10-24,Tranmere Rovers,away,3-4-2-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,McGee,Luke Paul,L. McGee,1,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Senior,Joel Toby,J. Senior,2,Defender,2,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Slater,Jacob Vaughan,J. Slater,3,Defender,3,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Turnbull,Jordan Robert,J. Turnbull,4,Defender,6,False,1,45+1,0,,2.0,46.0,Tactical,s-6xjftfuwhkbs39xfc3phdbyl1,N. Smith,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Smith,Nathan James,N. Smith,5,Substitute,,False,0,,0,,,46.0,Tactical,,,2.0,,,s-4bvc6p797egcje5vf8qbdl4ut,J. Turnbull
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Vaulks,William Robert,W. Vaulks,6,Midfielder,4,True,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Whitaker,Charlie Jay,C. Whitaker,7,Midfielder,11,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Ironside,Joe Samuel,J. Ironside,9,Striker,9,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Ince,Thomas Christopher,T. Ince,10,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Conlon,Tom George Sawyer,T. Conlon,11,Midfielder,8,False,1,60,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Boyce-Clarke,Coniah Chronicles,C. Boyce-Clarke,13,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Faulkner,Bobby Brian,B. Faulkner,16,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Veevers,Charlie,C. Veevers,20,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,O'Connor,Lee Patrick,L. O'Connor,22,Substitute,,False,0,,0,,,89.0,Tactical,,,2.0,,,s-cstdv7oams463h03v956rwums,D. Jones
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Gbashai Kamara,David Joy,D. Kamara,24,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Jones,Dylan,D. Jones,29,Midfielder,7,False,0,,0,,2.0,89.0,Tactical,s-9zpiq0jevngvu0hi2u8yi997t,L. O'Connor,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Nevett,George Patrick,G. Nevett,30,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Tranmere Rovers,home,4-4-1-1,Darrell Clarke,Watson,Ryan James,R. Watson,44,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Day,Joseph David,J. Day,1,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Tomkinson,Jonathan Robert,J. Tomkinson,3,Defender,2,False,1,78,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Wilson,James Steven,J. Wilson,6,Defender,6,True,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Stevenson,Ben Edward,B. Stevenson,7,Defensive Midfielder,8,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,McCann,Charlie Liam,C. McCann,8,Attacking Midfielder,10,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Otchere,Kirsten Fiifi Yamoah,K. Otchere,9,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Miller,George,G. Miller,10,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-cjwflve6ukph4h2az1irm099l,R. Broom
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Bickerstaff,Jacob Samuel,J. Bickerstaff,11,Substitute,,False,0,,0,,,80.0,Tactical,,,2.0,,,s-7bm6obsktl01f30u6jg49w72t,A. Weimann
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Broom,Ryan James,R. Broom,14,Attacking Midfielder,11,False,0,,0,,2.0,68.0,Tactical,s-expwmnm5o0j71369xffko4cmh,G. Miller,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,McWilliams,Shaun Daniel,S. McWilliams,17,Defensive Midfielder,4,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Weimann,Andreas,A. Weimann,18,Striker,9,False,0,,0,,2.0,80.0,Tactical,s-1ma2wphto0txl1zm0fkuk136y,J. Bickerstaff,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Evans,Jake Benjamin,J. Evans,19,Attacking Midfielder,7,False,1,32,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Nurse,George Damian,G. Nurse,21,Substitute,,False,0,,0,,,68.0,Tactical,,,2.0,,,s-bydla0otire1a58193o1buqjt,J. Shipley
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Stanway,Wylliam Sam,W. Stanway,23,Goalkeeper,1,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Sweeney,Pierce Liam,P. Sweeney,25,Defender,5,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Shipley,Jordan Mark Edward James,J. Shipley,26,Defender,3,False,0,,0,,2.0,68.0,Tactical,s-cmlwz7ck6uh13uo5lj4lo1fu2,G. Nurse,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Diallo,Mamadou,M. Diallo,31,Substitute,,False,0,,0,,,,,,,,,,,
+2026-10-31,Cheltenham Town,away,4-2-3-1,Steve Cotterill,Willcox,Frederick Henry Arthur,F. Willcox,33,Substitute,,False,0,,0,,,,,,,,,,,

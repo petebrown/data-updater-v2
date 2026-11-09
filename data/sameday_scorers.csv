@@ -9801,3 +9801,454 @@ game_date,team_name,player_name,bbc_player_id,goal_min,goal_min_inj,goal_type
 2026-08-15,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,60,,Goal
 2026-08-15,York City,H. Boyes,s-91mshvbc4rk9cf0chhgukakiy,63,,Goal
 2026-08-15,York City,H. Boyes,s-91mshvbc4rk9cf0chhgukakiy,80,,Goal
+2026-08-22,Barnet,J. Reeves,s-6ozcdz0fi18zr9torv0hikz4l,13,,Goal
+2026-08-22,Barnet,C. Lakin,s-dqk7nicp3ufef4hyus1begdii,83,,Goal
+2026-08-22,Barnet,T. Knowles,s-5fqch6alo2epewa9vl33fm5wq,90,,Goal
+2026-08-22,Bristol Rovers,B. Purrington,s-eue5o5hcml60dtt61qku5jcut,45,1,Goal
+2026-08-22,Bristol Rovers,F. Cavegn,s-7mbijuaw8pcclje59ilapi0wk,53,,Goal
+2026-08-22,Bristol Rovers,L. Jenkins,s-30c5wrniw2itix01mz9ccs4mi,57,,Own Goal
+2026-08-22,Bristol Rovers,B. Kamwa,s-39gerw0vkyeriats1e0rgdn56,74,,Goal
+2026-08-22,Bristol Rovers,F. Cavegn,s-7mbijuaw8pcclje59ilapi0wk,90,9,Goal
+2026-08-22,Cheltenham Town,R. Broom,s-cjwflve6ukph4h2az1irm099l,85,,Goal
+2026-08-22,Chesterfield,L. Bonis,s-6a0dgu52fnewjdcrv18w7p65m,2,,Goal
+2026-08-22,Colchester United,H. Anderson,s-f4qyrav5wfp55jyprdoq1upcl,63,,Goal
+2026-08-22,Colchester United,L. Temple,s-ac8k6ewepelli38dq5geuugpg,90,4,Own Goal
+2026-08-22,Crawley Town,L. Watson,s-61tncgkpzj7n0hdpjgch9n0tl,72,,Penalty
+2026-08-22,Crawley Town,P. Aderoju,s-2hzoujegeervujm52v91grv8,8,,Goal
+2026-08-22,Crewe Alexandra,J. March,s-2r64ekro7ydonu8jg7s12xyei,53,,Goal
+2026-08-22,Exeter City,G. Edwards,s-156hlg4mne48ct15fm5qtpjo5,13,,Goal
+2026-08-22,Exeter City,J. Fitzwater,s-dm0ktjgadvf89t9zsqybufnxl,2,,Goal
+2026-08-22,Newport County,H. Biggins,s-4ltpx62a5n6r3v48gcax3wmh,1,,Goal
+2026-08-22,Newport County,S. Gwengwe,s-b33jczfqukmi6n984bclsld78,61,,Goal
+2026-08-22,Newport County,C. Jarvis,s-e56pirwk5zxn6qb60b85jbrbo,90,1,Goal
+2026-08-22,Oldham Athletic,K. Appiah-Forson,s-d31909ffus94n1cbo01gfjf56,20,,Goal
+2026-08-22,Port Vale,G. Byers,s-6hrtxdf59nba5ietwyfe3b2t,18,,Penalty
+2026-08-22,Rochdale,E. Ebanks-Landell,s-8zsmdyqwt75c05xy45ox0e1ud,54,,Goal
+2026-08-22,Rotherham United,E. Otoo,s-6xog955qcyf9uct3gaqehnkve,20,,Goal
+2026-08-22,Shrewsbury Town,J. Davison,s-84qumtphadlmwu0bikkii936y,41,,Goal
+2026-08-22,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,17,,Goal
+2026-08-22,Swindon Town,O. Clarke,s-y893bpaxypqj6kd6y0eckwd1,55,,Goal
+2026-08-22,Tranmere Rovers,T. Ince,s-2ucq00tdq0qqqovscexd7rj6d,72,,Goal
+2026-08-22,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,40,,Goal
+2026-08-29,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,12,,Goal
+2026-08-29,Accrington Stanley,Stefan Mols,s-6x3me52n7ux6pc5i0vvhd6xnt,57,,Goal
+2026-08-29,Barnet,C. Lakin,s-dqk7nicp3ufef4hyus1begdii,11,,Goal
+2026-08-29,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,78,,Penalty
+2026-08-29,Bristol Rovers,T. James,s-b0k1cqbb95btr61an8rn5d3o5,23,,Goal
+2026-08-29,Bristol Rovers,B. Kamwa,s-39gerw0vkyeriats1e0rgdn56,41,,Goal
+2026-08-29,Cheltenham Town,R. Broom,s-cjwflve6ukph4h2az1irm099l,60,,Goal
+2026-08-29,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,64,,Goal
+2026-08-29,Chesterfield,L. Mandeville,s-6clm6ketc6tz6qqfk4comf2ll,88,,Penalty
+2026-08-29,Colchester United,J. Williams,s-b5noaolne8tw3x6zlucevnyms,87,,Goal
+2026-08-29,Exeter City,J. Fitzwater,s-dm0ktjgadvf89t9zsqybufnxl,90,1,Goal
+2026-08-29,Fleetwood Town,W. Davies,s-809e6gwb3fzbxwhnj093sj7ro,6,,Goal
+2026-08-29,Fleetwood Town,F. Potter,s-6hirr692ps5epm746jk5udmok,69,,Goal
+2026-08-29,Gillingham,C. McManus,s-6z5pejhpzmtm686r1jrbrvc44,7,,Goal
+2026-08-29,Grimsby Town,C. Doyle,s-5m10noqwxoqq1dnjjqs58bn6c,37,,Goal
+2026-08-29,Grimsby Town,A. Cook,s-dz0c4z5rx225rb828ceeygdzp,64,,Goal
+2026-08-29,Newport County,S. Gwengwe,s-b33jczfqukmi6n984bclsld78,11,,Goal
+2026-08-29,Newport County,S. Gwengwe,s-b33jczfqukmi6n984bclsld78,90,,Goal
+2026-08-29,Northampton Town,L. Briggs,s-ew52lbbopclo2dcnve3dbjfv8,36,,Goal
+2026-08-29,Oldham Athletic,E. Nevitt,s-cfctx4jjyzrqgeu1kcyt60f10,41,,Goal
+2026-08-29,Oldham Athletic,C. Kavanagh,s-1bivsk6runns22891knqiihd6,84,,Penalty
+2026-08-29,Oldham Athletic,M. Fondop,s-1wg80wp2dm65sm8f29x2w46ax,90,5,Goal
+2026-08-29,Rotherham United,Fábio Tavares,s-8zea9qojf6svoa6wb5vm6q0dm,12,,Goal
+2026-08-29,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,90,,Goal
+2026-08-29,Shrewsbury Town,W. Boyle,s-3ul7pyapna7v0zr5ggabbbnx1,74,,Goal
+2026-08-29,Tranmere Rovers,Z. Okoro,s-c76ovdk3vorl2e51o8ouesg0k,71,,Goal
+2026-08-29,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,75,,Goal
+2026-08-29,Walsall,H. Burke,s-7x8e6vgkvnv00x83e4jrs5638,45,6,Goal
+2026-08-29,Walsall,A. Pressley,s-f4ef7in4fxoylsy29anhgqep5,53,,Goal
+2026-08-29,Walsall,R. Smith,s-64e7y3setlkppzevwtfwrxkru,8,,Goal
+2026-08-29,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,7,,Goal
+2026-08-29,York City,J. Malcolm,s-8vmj893kt4d1co6mtfpn20dii,76,,Goal
+2026-09-05,Accrington Stanley,C. Caton,s-8ulmmc45jlajkkd0v8qev4w2y,4,,Goal
+2026-09-05,Accrington Stanley,C. Caton,s-8ulmmc45jlajkkd0v8qev4w2y,55,,Goal
+2026-09-05,Accrington Stanley,D. Matthews,s-824z16cpkhiwhs8h4m2ephhxw,63,,Goal
+2026-09-05,Barnet,T. Knowles,s-5fqch6alo2epewa9vl33fm5wq,29,,Goal
+2026-09-05,Barnet,Z. Williams,s-ccsiplg85gm3aokzhbkaezwno,45,3,Goal
+2026-09-05,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,88,,Goal
+2026-09-05,Bristol Rovers,T. Leigh,s-8i4qnoil4877e0wpwx3fj5b10,32,,Goal
+2026-09-05,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,12,,Goal
+2026-09-05,Cheltenham Town,A. Weimann,s-7bm6obsktl01f30u6jg49w72t,41,,Penalty
+2026-09-05,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,39,,Goal
+2026-09-05,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,71,,Goal
+2026-09-05,Chesterfield,J. Randall,s-1ur2h01o6jgewwzydb2caggoa,90,3,Goal
+2026-09-05,Colchester United,K. Kouassi,s-3erkpo0afn2eddvljgq7u5c0k,13,,Goal
+2026-09-05,Crawley Town,D. Orsi,s-csw6i5ceobus79rw3y5uaczu2,20,,Goal
+2026-09-05,Crawley Town,P. Aderoju,s-2hzoujegeervujm52v91grv8,79,,Goal
+2026-09-05,Crewe Alexandra,L. Offord,s-7m2yijhweh0wn96wfm7e8x756,9,,Goal
+2026-09-05,Fleetwood Town,R. Coughlan,s-8kyksn3lwpmx2xqd1abtwdlka,39,,Goal
+2026-09-05,Fleetwood Town,A. Loupalo-Bi,s-h2aqtqhwna2b1f0u1ocy49g,86,,Goal
+2026-09-05,Gillingham,J. Brophy,s-2oqi7v6d676hbe9i9agdl9ckp,33,,Goal
+2026-09-05,Gillingham,O. Beckles,s-rry2jr3mxaad9skdhepj3xsl,53,,Goal
+2026-09-05,Gillingham,L. Sillah,s-9cdo9phwt8juxf4pnmb8u28lw,56,,Goal
+2026-09-05,Gillingham,J. Brophy,s-2oqi7v6d676hbe9i9agdl9ckp,68,,Goal
+2026-09-05,Grimsby Town,M. Shelton,s-emce4ez11txof8tl2f3953zs9,47,,Goal
+2026-09-05,Grimsby Town,K. Green,s-4x6rka28bs12zoi2tdcg6kvyt,82,,Goal
+2026-09-05,Northampton Town,J. O'Brien-Whitmarsh,s-dqt255ktkxtoiq3p1h02atfkk,87,,Goal
+2026-09-05,Rochdale,C. Tasker,s-34spdpyb3k4jhiojqpwpffk0k,87,,Goal
+2026-09-05,Salford City,J. Powell,s-8wnv741y7ghjolf8g5c7psru1,52,,Goal
+2026-09-05,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,49,,Goal
+2026-09-05,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,77,,Goal
+2026-09-05,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,79,,Goal
+2026-09-05,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,17,,Goal
+2026-09-05,Tranmere Rovers,J. Ironside,s-aral6zvx8qxkfqkqwb7ldfk5x,82,,Penalty
+2026-09-05,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,40,,Goal
+2026-09-12,Accrington Stanley,C. Caton,s-8ulmmc45jlajkkd0v8qev4w2y,27,,Goal
+2026-09-12,Barnet,C. Lakin,s-dqk7nicp3ufef4hyus1begdii,57,,Goal
+2026-09-12,Barnet,C. Lakin,s-dqk7nicp3ufef4hyus1begdii,72,,Goal
+2026-09-12,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,32,,Goal
+2026-09-12,Cheltenham Town,A. Weimann,s-7bm6obsktl01f30u6jg49w72t,35,,Goal
+2026-09-12,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,54,,Goal
+2026-09-12,Chesterfield,L. Bonis,s-6a0dgu52fnewjdcrv18w7p65m,18,,Goal
+2026-09-12,Chesterfield,D. Markanday,s-2ws74z0vjuq4vdt4575cgjbsa,52,,Goal
+2026-09-12,Colchester United,H. Anderson,s-f4qyrav5wfp55jyprdoq1upcl,27,,Goal
+2026-09-12,Crawley Town,D. Morgan,s-1pf1brmfv39idwq6loliy7iay,7,,Goal
+2026-09-12,Crewe Alexandra,J. Stephenson,s-527eb62iroza8sd84ai3q893o,90,3,Goal
+2026-09-12,Fleetwood Town,A. Loupalo-Bi,s-h2aqtqhwna2b1f0u1ocy49g,68,,Goal
+2026-09-12,Gillingham,L. Dobbs,s-73kwwa65op350vbecq4g8avis,68,,Goal
+2026-09-12,Gillingham,R. Hale,s-b80wetkfsy6m7s189x6mfx2ax,80,,Goal
+2026-09-12,Grimsby Town,K. Green,s-4x6rka28bs12zoi2tdcg6kvyt,22,,Goal
+2026-09-12,Grimsby Town,G. Turi,s-3zt3gbb4alp6x28g3sv0bhv1m,40,,Goal
+2026-09-12,Newport County,C. Doidge,s-71xg650qcs8yibhrumgvdejth,38,,Goal
+2026-09-12,Oldham Athletic,F. Fawunmi,s-dxypea82s4auw2qijdftk915g,50,,Goal
+2026-09-12,Port Vale,G. Byers,s-6hrtxdf59nba5ietwyfe3b2t,70,,Penalty
+2026-09-12,Rotherham United,B. Cover,s-3pcz6xycs2yh86d5ppm7rvv2s,33,,Goal
+2026-09-12,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,35,,Penalty
+2026-09-12,Rotherham United,O. Ashley,s-cgjy6z0231xmimgvsq2k4x6cq,55,,Goal
+2026-09-12,Salford City,J. Powell,s-8wnv741y7ghjolf8g5c7psru1,31,,Goal
+2026-09-12,Salford City,M. Langstaff,s-abtmu970lml2twcop8ydjlb3e,74,,Penalty
+2026-09-12,Salford City,R. Graydon,s-9sa0ur0dk3d7myx9gt7lq9y0a,9,,Goal
+2026-09-12,Shrewsbury Town,K. Berkoe,s-8ozdylob9zfrd2ohc86fpl1pl,45,,Goal
+2026-09-12,Shrewsbury Town,K. McMahon-Brown,s-72zn6ugujcii1l59o98mz2p04,8,,Goal
+2026-09-12,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,16,,Goal
+2026-09-12,York City,O. Banks,s-3so13462zxbn4hmdyant8tzh1,24,,Goal
+2026-09-12,York City,A. Newby,s-e7lfa1zftohws88lxqm1t1ln9,72,,Goal
+2026-09-12,York City,O. Pearce,s-agnanpw95qshgbtgngb88ywh5,82,,Goal
+2026-09-19,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,10,,Penalty
+2026-09-19,Barnet,C. Lakin,s-dqk7nicp3ufef4hyus1begdii,60,,Goal
+2026-09-19,Barnet,I. Kanu,s-4k6d5x78udmylpjif9pavw9ux,62,,Goal
+2026-09-19,Cheltenham Town,A. Weimann,s-7bm6obsktl01f30u6jg49w72t,78,,Penalty
+2026-09-19,Chesterfield,L. Bonis,s-6a0dgu52fnewjdcrv18w7p65m,57,,Goal
+2026-09-19,Chesterfield,D. Markanday,s-2ws74z0vjuq4vdt4575cgjbsa,90,7,Goal
+2026-09-19,Colchester United,M. Sesay,s-19idgsn9eflelf2oostn363h0,66,,Goal
+2026-09-19,Crewe Alexandra,J. Gibson,s-dktwq334mk0jk9znq0wawtq09,24,,Goal
+2026-09-19,Fleetwood Town,W. Davies,s-809e6gwb3fzbxwhnj093sj7ro,36,,Goal
+2026-09-19,Gillingham,J. Brophy,s-2oqi7v6d676hbe9i9agdl9ckp,55,,Goal
+2026-09-19,Gillingham,S. Kendall,s-326a13ciizysarn62z05flm38,85,,Goal
+2026-09-19,Gillingham,S. Kendall,s-326a13ciizysarn62z05flm38,89,,Goal
+2026-09-19,Grimsby Town,I. Morgan,s-3zw3uj9zqca10oesz95aw6kno,30,,Penalty
+2026-09-19,Grimsby Town,K. Green,s-4x6rka28bs12zoi2tdcg6kvyt,42,,Goal
+2026-09-19,Rochdale,D. Brown,s-9bnyw1svvwgea6p4bkb4uymtw,63,,Goal
+2026-09-19,Rochdale,D. Moss,s-3kzi308ukbi4mxszebm29iyy2,7,,Goal
+2026-09-19,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,73,,Penalty
+2026-09-19,Salford City,J. Powell,s-8wnv741y7ghjolf8g5c7psru1,77,,Goal
+2026-09-19,Shrewsbury Town,G. Lloyd,s-8e7i5qtbmz3ikj050mf4ef4h6,39,,Goal
+2026-09-19,Walsall,J. Connolly,s-6wax1hh875vpvfi1fbetwmtey,45,5,Goal
+2026-09-19,Walsall,A. Dallas,s-1vek7p5k9fsc83ss0pqlmhlgp,89,,Goal
+2026-09-22,Accrington Stanley,C. Warren,s-ca2vmlt7aho8z5ae9r5pl0opg,26,,Goal
+2026-09-22,Accrington Stanley,C. Stockton,s-3ft5brlvxvw8otiyjppxkk6ad,51,,Goal
+2026-09-22,Accrington Stanley,Stefan Mols,s-6x3me52n7ux6pc5i0vvhd6xnt,90,3,Goal
+2026-09-22,Aston Villa U21,M. Jenner,s-6hjqpm4ihuy82m7mqvkefr7kk,85,,Goal
+2026-09-22,Barnsley,V. Yoganathan,s-fu66qtf0grgbiakok25pyq6s,80,,Goal
+2026-09-22,Barnsley,A. Richards,s-q2inha6s1ystal5ejndj7ggk,84,,Goal
+2026-09-22,Barnsley,L. Connell,s-canpue729cozt0cw6a1dpi7ai,87,,Goal
+2026-09-22,Blackpool,T. Bloxham,s-1g9uh6aokaevbg7s6v2jh8h78,72,,Penalty
+2026-09-22,Blackpool,J. Yates,s-agpny3crk0g9nnsppok9971m1,90,,Goal
+2026-09-22,Bradford City,N. Powell,s-3ys3x87ao5imzbdkcau5s6lzp,59,,Goal
+2026-09-22,Bradford City,N. Powell,s-3ys3x87ao5imzbdkcau5s6lzp,71,,Goal
+2026-09-22,Brentford U21,O. Shield,s-9p3kpxn3fv3s9tiwpsbh4yo0k,85,,Goal
+2026-09-22,Burton Albion,E. Adiele,s-bw2pkqwfuxonrsgdpxr5f3384,25,,Goal
+2026-09-22,Cambridge United,Z. Bradshaw,s-6djkebstplayojjus0q6c3vh0,24,,Goal
+2026-09-22,Cambridge United,P. Mpanzu,s-dz7v5ebeqsaz2srz1a8mp9xw5,34,,Goal
+2026-09-22,Cambridge United,L. Appéré,s-4qpogy2j8e58kr2b0qf9sjht5,57,,Goal
+2026-09-22,Cambridge United,I. Heath,s-8zcybdfdj7soqmrs76e4faec4,87,,Penalty
+2026-09-22,Cheltenham Town,J. Bickerstaff,s-1ma2wphto0txl1zm0fkuk136y,45,1,Goal
+2026-09-22,Cheltenham Town,G. Miller,s-expwmnm5o0j71369xffko4cmh,89,,Penalty
+2026-09-22,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,69,,Goal
+2026-09-22,Colchester United,R. Harvey,s-bbed1qipu84rztmicisqupa8k,79,,Goal
+2026-09-22,Crawley Town,N. Tinsdale,s-bfwtsi9b7791cqd80rqpl79qs,90,1,Goal
+2026-09-22,Crewe Alexandra,L. Offord,s-7m2yijhweh0wn96wfm7e8x756,31,,Goal
+2026-09-22,Crewe Alexandra,A. Thibaut,s-dahn2q4c2d7cky0dhnb3ipez8,40,,Goal
+2026-09-22,Crewe Alexandra,J. Lankester,s-7b7ca1dklnp7reqcs5s4aauei,48,,Goal
+2026-09-22,Crewe Alexandra,J. Lankester,s-7b7ca1dklnp7reqcs5s4aauei,88,,Goal
+2026-09-22,Crystal Palace U21,D. Martin,s-c5rvmvlbz5mqpjhlfr1uq7klw,57,,Goal
+2026-09-22,Exeter City,J. Gordon,s-deooi9sgnoa1ac60rjsxj8kix,77,,Goal
+2026-09-22,Exeter City,C. Cummins,s-aqrbu73wvu5cbtjokrie2ufx0,86,,Goal
+2026-09-22,Fulham U21,S. Chingwaro,s-eson16ab7i6vnt78uo1pdx1ck,45,4,Goal
+2026-09-22,Gillingham,L. Dayal,s-9egiioy00ilbcol6t5cqjtqfo,31,,Goal
+2026-09-22,Grimsby Town,J. Sweeney,s-db05fy2857wvtowz1hwu6ocbu,79,,Goal
+2026-09-22,Leeds United U21,C. Mills,s-7ge62nknbkdkab286o762zg2c,19,,Goal
+2026-09-22,Leeds United U21,C. Mills,s-7ge62nknbkdkab286o762zg2c,41,,Goal
+2026-09-22,Leeds United U21,J. McDonald,s-87ptbteqnisnsdciowsd3hzpw,43,,Goal
+2026-09-22,Leeds United U21,C. Mills,s-7ge62nknbkdkab286o762zg2c,70,,Goal
+2026-09-22,Leicester City,A. Bristrić,s-21jif0auzohhorvi8vksyzr4k,15,,Goal
+2026-09-22,Leicester City,A. Bristrić,s-21jif0auzohhorvi8vksyzr4k,24,,Goal
+2026-09-22,Leicester City,A. Bristrić,s-21jif0auzohhorvi8vksyzr4k,34,,Goal
+2026-09-22,Leicester City,T. Watson,s-36uqz2z07xk8jhwyg5g159gr8,40,,Goal
+2026-09-22,Leicester City,T. Watson,s-36uqz2z07xk8jhwyg5g159gr8,45,2,Goal
+2026-09-22,Leicester City,B. De Cordova-Reid,s-ch8dgambei1xbzmikkglg3c9h,50,,Goal
+2026-09-22,Liverpool U21,W. Wright,s-nae3trzo8x484y3ow3bbzzmc,42,,Goal
+2026-09-22,Liverpool U21,B. Trueman,s-doprkusjbqvbiibs1lgz84b9w,90,4,Goal
+2026-09-22,Liverpool U21,J. Sonni-Lambie,s-9c61ddp0nnh0k1ae6nf9zd2qc,90,6,Goal
+2026-09-22,Luton Town,J. Clark,s-bmwajy8xpa1fqbm2sykpwpadx,18,,Goal
+2026-09-22,Luton Town,J. Clark,s-bmwajy8xpa1fqbm2sykpwpadx,23,,Goal
+2026-09-22,Luton Town,D. Cole,s-32crcj18u4qnf8f07fbsopvpx,34,,Goal
+2026-09-22,Luton Town,J. Clark,s-bmwajy8xpa1fqbm2sykpwpadx,51,,Goal
+2026-09-22,Luton Town,J. Johnson,s-2jml90149m631p3v39kbpls0k,74,,Goal
+2026-09-22,Luton Town,D. Gawel,s-a3a7znz59y2a0ddjn6m1gze38,86,,Goal
+2026-09-22,MK Dons,B. Wiles,s-7c5glijgghhlirwurigfbj0x6,42,,Goal
+2026-09-22,MK Dons,J. Sanders,s-br8drjrzg7caqavtr5l7twpka,45,,Goal
+2026-09-22,MK Dons,E. Campbell,s-3ugtm0sad0swalypypy63sqy2,61,,Goal
+2026-09-22,MK Dons,R. Hepburn-Murphy,s-eexhf8ypox678srcdjax94xrd,70,,Penalty
+2026-09-22,Newcastle United U21,M. Ferreira,s-bw7641d0mv68vkjg46lo6qfbo,42,,Goal
+2026-09-22,Newport County,G. Garner,s-8d6o15wvepi7do7e0ubjeoga2,4,,Goal
+2026-09-22,Newport County,T. Nyakuhwa,s-21csvk6l0lh4fy7gl3tzfy7mc,80,,Goal
+2026-09-22,Nottingham Forest U21,K. Clarke,s-e2gvo8pip0oxtm115e70viql0,54,,Goal
+2026-09-22,Notts County,C. Roberts,s-1crz8xx50md5dang7twpdk0kp,32,,Goal
+2026-09-22,Notts County,O. Cooper,s-59wpdr3re674r0pdwnw96snop,90,7,Goal
+2026-09-22,Oldham Athletic,N. Chilvers,s-1ll8f6bujyf53iyqjmzz1dt9m,46,,Goal
+2026-09-22,Peterborough United,O. Edwards,s-2n1na0cyvk19401cuwsokmaga,28,,Goal
+2026-09-22,Peterborough United,H. Ashfield,s-72k1yzt73pae83ocrao01785w,31,,Goal
+2026-09-22,Peterborough United,H. Ashfield,s-72k1yzt73pae83ocrao01785w,42,,Goal
+2026-09-22,Plymouth Argyle,X. Amaechi,s-9hm1ar7moc4vvae86rtwuf46h,11,,Goal
+2026-09-22,Plymouth Argyle,C. Watts,s-2ykne43vtv8c00rvviyr3rre2,26,,Goal
+2026-09-22,Plymouth Argyle,C. Watts,s-2ykne43vtv8c00rvviyr3rre2,37,,Goal
+2026-09-22,Plymouth Argyle,S. Campbell,s-5j8zzbncypeqvdri40fc5s3kk,66,,Goal
+2026-09-22,Plymouth Argyle,A. Pepple,s-ekpuqpny9mue83orafcamp2i,84,,Goal
+2026-09-22,Port Vale,O. Hernández,s-4ca71ufcoyg21mmzwq4i9tfit,39,,Goal
+2026-09-22,Rochdale,D. Rodney,s-d2iaecp9rikjpkbhlz8ybrqax,37,,Goal
+2026-09-22,Rochdale,I. Henderson,s-6e3fjmz39auh7vx56cx2aeevp,77,,Goal
+2026-09-22,Rochdale,I. Henderson,s-6e3fjmz39auh7vx56cx2aeevp,80,,Goal
+2026-09-22,Rotherham United,J. Buyabu,s-enurtjj5v48kwikz8mfoa3r4k,57,,Goal
+2026-09-22,Salford City,B. Woodburn,s-ddmopdo3f8jnpvqjg8vu08251,34,,Goal
+2026-09-22,Sheffield Wednesday,D. Keillor-Dunn,s-7mcxkeo8701m9cs3hfy6towrt,55,,Goal
+2026-09-22,Sheffield Wednesday,J. Lowe,s-8yp9la3fl2zym7vie19lmw0k5,77,,Penalty
+2026-09-22,Stevenage,M. Mellon,s-epb1j3o8uv7qo4yu31eoquicq,11,,Goal
+2026-09-22,Stevenage,Wanya Marçal,s-b6gva8y8bdyy7bmv6se449ap6,29,,Goal
+2026-09-22,Stevenage,J. Houghton,s-2q6bsyszm27v5uvs30j5ty311,32,,Goal
+2026-09-22,Stevenage,M. Mellon,s-epb1j3o8uv7qo4yu31eoquicq,42,,Goal
+2026-09-22,Stevenage,M. Mellon,s-epb1j3o8uv7qo4yu31eoquicq,58,,Goal
+2026-09-22,Stevenage,B. Broggio,s-7kbz6hqt79vasxqc2gvz2o3kk,63,,Goal
+2026-09-22,Sunderland U21,T. Samuel-Ogunsuyi,s-d6kn44h8glhv9iji63rjpagb8,11,,Goal
+2026-09-22,Sunderland U21,T. Proctor,s-93435o62afjub07agw5ujmvx0,39,,Goal
+2026-09-22,Sunderland U21,T. Tutierov,s-cox2j1dmxp4p4yoe4xogwx7v8,61,,Goal
+2026-09-22,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,69,,Goal
+2026-09-22,Walsall,L. Simper,s-68emhvrwqi5m0q155ww2bzn1m,17,,Goal
+2026-09-22,Wigan Athletic,C. Barrett,s-5eh9l4j3hcgktj4x7xgih8kfe,3,,Goal
+2026-09-22,Wigan Athletic,S. Hogan,s-5wzjw6m6grdozcnkv21396o5x,57,,Goal
+2026-09-22,Wigan Athletic,F. Murray,s-6uvj9qt3kex5sx729zbe1rlyh,78,,Goal
+2026-09-22,York City,Z. Medley,s-243h2yiww7rrz20i0le43jtux,44,,Goal
+2026-09-26,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,1,,Goal
+2026-09-26,Bristol Rovers,F. Cavegn,s-7mbijuaw8pcclje59ilapi0wk,66,,Goal
+2026-09-26,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,17,,Goal
+2026-09-26,Cheltenham Town,A. Weimann,s-7bm6obsktl01f30u6jg49w72t,37,,Goal
+2026-09-26,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,49,,Goal
+2026-09-26,Colchester United,M. Sesay,s-19idgsn9eflelf2oostn363h0,19,,Goal
+2026-09-26,Colchester United,M. Sesay,s-19idgsn9eflelf2oostn363h0,90,5,Goal
+2026-09-26,Crewe Alexandra,D. Iorfa,s-4mg6kr1jernr98unfp5p8shqt,21,,Own Goal
+2026-09-26,Fleetwood Town,M. Helm,s-h4g0ji8lk43f7zcpl79henai,30,,Goal
+2026-09-26,Grimsby Town,J. Wright,s-8mxu20zdh9wrguq79ib8y5m21,83,,Own Goal
+2026-09-26,Newport County,C. Doidge,s-71xg650qcs8yibhrumgvdejth,57,,Goal
+2026-09-26,Newport County,S. Gwengwe,s-b33jczfqukmi6n984bclsld78,69,,Goal
+2026-09-26,Oldham Athletic,C. Kavanagh,s-1bivsk6runns22891knqiihd6,21,,Goal
+2026-09-26,Rochdale,A. Flint,s-77yt60bz6k3rqv316v9qxxyad,14,,Goal
+2026-09-26,Rochdale,D. Brown,s-9bnyw1svvwgea6p4bkb4uymtw,8,,Goal
+2026-09-26,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,44,,Goal
+2026-09-26,Salford City,K. N’Mai,s-1gm44x9dpgawsg3suy8qpofmc,19,,Goal
+2026-09-26,Salford City,L. Molyneux,s-9yyv97vjq1g6ke9re2oxytqeh,5,,Goal
+2026-09-26,Salford City,B. Wiredu,s-6tqiy5a5cfpfm90j8r5udl8bu,57,,Goal
+2026-09-26,Salford City,A. Oluwo,s-cd7s8mxa2nsb1aiqzimb6gys4,81,,Goal
+2026-09-26,Shrewsbury Town,L. Hoole,s-ejmi6qqszz1509excckyj3n1m,29,,Goal
+2026-09-26,Shrewsbury Town,I. Fletcher,s-393wxtb58b9wmuwfy40ks30q2,90,2,Goal
+2026-09-26,Swindon Town,J. Hungbo,s-3cxuoubom7dryuebyn850xvmy,31,,Goal
+2026-09-26,Tranmere Rovers,B. Faulkner,s-7h2tu0w2gdzma1pzi4jhcsavo,73,,Goal
+2026-09-26,Walsall,R. Smith,s-64e7y3setlkppzevwtfwrxkru,90,1,Goal
+2026-09-26,York City,J. Grey,s-2y9jzr4ykryl1p2i2zkrponl6,2,,Goal
+2026-09-26,York City,J. Malcolm,s-8vmj893kt4d1co6mtfpn20dii,75,,Goal
+2026-09-26,York City,O. Pearce,s-agnanpw95qshgbtgngb88ywh5,79,,Goal
+2026-10-03,Accrington Stanley,C. Warren,s-ca2vmlt7aho8z5ae9r5pl0opg,78,,Goal
+2026-10-03,Accrington Stanley,C. Warren,s-ca2vmlt7aho8z5ae9r5pl0opg,87,,Goal
+2026-10-03,Bristol Rovers,B. Kamwa,s-39gerw0vkyeriats1e0rgdn56,90,2,Goal
+2026-10-03,Chesterfield,D. Markanday,s-2ws74z0vjuq4vdt4575cgjbsa,15,,Goal
+2026-10-03,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,83,,Goal
+2026-10-03,Chesterfield,J. Koroma,s-307tfvtl56s1rf61x8kjevjzd,85,,Goal
+2026-10-03,Chesterfield,J. Koroma,s-307tfvtl56s1rf61x8kjevjzd,90,1,Goal
+2026-10-03,Crewe Alexandra,J. Lankester,s-7b7ca1dklnp7reqcs5s4aauei,1,,Goal
+2026-10-03,Crewe Alexandra,J. Lankester,s-7b7ca1dklnp7reqcs5s4aauei,21,,Penalty
+2026-10-03,Crewe Alexandra,J. Gibson,s-dktwq334mk0jk9znq0wawtq09,66,,Goal
+2026-10-03,Exeter City,A. Scully,s-cgzdrqjj6k0ty0k8oc108hp0p,51,,Goal
+2026-10-03,Grimsby Town,F. Cartwright,s-biq8miw2aqp5pbdfr0xxy4h78,75,,Goal
+2026-10-03,Rochdale,C. Hayes,s-e4xeswr8cpdkmlhijuf7oonsa,88,,Goal
+2026-10-03,Salford City,M. Langstaff,s-abtmu970lml2twcop8ydjlb3e,65,,Goal
+2026-10-03,Shrewsbury Town,G. Lloyd,s-8e7i5qtbmz3ikj050mf4ef4h6,19,,Goal
+2026-10-03,Shrewsbury Town,K. McMahon-Brown,s-72zn6ugujcii1l59o98mz2p04,60,,Goal
+2026-10-03,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,59,,Goal
+2026-10-03,Tranmere Rovers,J. Slater,s-6hwhvoei0suc6h4lvywtcmolw,90,4,Goal
+2026-10-10,Barnet,A. Senior,s-8bp6dy2ija2au8g5r4l6crwq2,79,,Goal
+2026-10-10,Barnet,Z. Williams,s-ccsiplg85gm3aokzhbkaezwno,86,,Goal
+2026-10-10,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,90,5,Goal
+2026-10-10,Bristol Rovers,E. Harrison,s-bojsqjfaoi810xuyz0qeqs0r9,4,,Goal
+2026-10-10,Chesterfield,L. Bonis,s-6a0dgu52fnewjdcrv18w7p65m,23,,Goal
+2026-10-10,Chesterfield,L. Marsh,s-33x02853ldv2wixj88k0xnk0k,56,,Goal
+2026-10-10,Crawley Town,G. Di Biase,s-dro9vo3c1vp39t28bhjorqntg,61,,Penalty
+2026-10-10,Crawley Town,D. Morgan,s-1pf1brmfv39idwq6loliy7iay,66,,Goal
+2026-10-10,Crewe Alexandra,J. Gibson,s-dktwq334mk0jk9znq0wawtq09,60,,Goal
+2026-10-10,Exeter City,S. Cox,s-3lapm496pz9bbe7mgeezqncpg,86,,Goal
+2026-10-10,Fleetwood Town,R. Coughlan,s-8kyksn3lwpmx2xqd1abtwdlka,61,,Goal
+2026-10-10,Gillingham,R. Hale,s-b80wetkfsy6m7s189x6mfx2ax,34,,Goal
+2026-10-10,Gillingham,L. Sillah,s-9cdo9phwt8juxf4pnmb8u28lw,60,,Goal
+2026-10-10,Gillingham,R. Hale,s-b80wetkfsy6m7s189x6mfx2ax,67,,Penalty
+2026-10-10,Gillingham,T. Eaves,s-4r87dkl2lhog55g2e73z7whqt,89,,Penalty
+2026-10-10,Newport County,T. Nyakuhwa,s-21csvk6l0lh4fy7gl3tzfy7mc,79,,Goal
+2026-10-10,Northampton Town,J. O'Brien-Whitmarsh,s-dqt255ktkxtoiq3p1h02atfkk,10,,Goal
+2026-10-10,Port Vale,K. Dempsey,s-dndv2nbwzzvgrlgf6gmeqtryt,45,,Goal
+2026-10-10,Rochdale,D. Brown,s-9bnyw1svvwgea6p4bkb4uymtw,57,,Goal
+2026-10-10,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,17,,Goal
+2026-10-10,Salford City,J. Grant,s-6a7br2t45mam4765clafr0lp1,84,,Goal
+2026-10-10,Salford City,J. Grant,s-6a7br2t45mam4765clafr0lp1,90,3,Goal
+2026-10-10,Tranmere Rovers,T. Conlon,s-a1muz32ocg2650ll5kjc02u39,15,,Goal
+2026-10-10,Walsall,A. Pressley,s-f4ef7in4fxoylsy29anhgqep5,82,,Goal
+2026-10-10,York City,O. Pearce,s-agnanpw95qshgbtgngb88ywh5,85,,Goal
+2026-10-17,Accrington Stanley,Stefan Mols,s-6x3me52n7ux6pc5i0vvhd6xnt,11,,Goal
+2026-10-17,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,28,,Goal
+2026-10-17,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,66,,Goal
+2026-10-17,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,55,,Goal
+2026-10-17,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,87,,Penalty
+2026-10-17,Cheltenham Town,F. Willcox,s-cs55ereghay5rodso1iet09p0,45,1,Goal
+2026-10-17,Crawley Town,D. Morgan,s-1pf1brmfv39idwq6loliy7iay,59,,Goal
+2026-10-17,Crewe Alexandra,M. Holíček,s-339bgckkmm9ncc2ersaowueqc,39,,Goal
+2026-10-17,Crewe Alexandra,J. Gibson,s-dktwq334mk0jk9znq0wawtq09,45,,Goal
+2026-10-17,Crewe Alexandra,J. Gibson,s-dktwq334mk0jk9znq0wawtq09,55,,Goal
+2026-10-17,Fleetwood Town,S. Rooney,s-5q6s3r5ychv1d3r1tch4sot05,46,,Goal
+2026-10-17,Fleetwood Town,R. Coughlan,s-8kyksn3lwpmx2xqd1abtwdlka,80,,Goal
+2026-10-17,Gillingham,D. Matthews,s-824z16cpkhiwhs8h4m2ephhxw,31,,Own Goal
+2026-10-17,Newport County,K. Etete,s-cp5b4k53zowanf6qwek73wxuy,54,,Goal
+2026-10-17,Northampton Town,M. Warhurst,s-7g2jvlhxd1eu6j5aanika5c0k,34,,Goal
+2026-10-17,Northampton Town,J. Guthrie,s-8ywq5qulhgmn2renp3smxc05x,58,,Goal
+2026-10-17,Oldham Athletic,C. Kavanagh,s-1bivsk6runns22891knqiihd6,19,,Goal
+2026-10-17,Oldham Athletic,J. Robson,s-5j1eftktnca9eso1vvhu2hf55,25,,Goal
+2026-10-17,Oldham Athletic,F. Fawunmi,s-dxypea82s4auw2qijdftk915g,41,,Goal
+2026-10-17,Oldham Athletic,J. Robson,s-5j1eftktnca9eso1vvhu2hf55,81,,Goal
+2026-10-17,Port Vale,O. Hernández,s-4ca71ufcoyg21mmzwq4i9tfit,45,,Goal
+2026-10-17,Rochdale,J. Tabiner,s-3gwu0htvnff6ock9nl8zs1e6s,65,,Own Goal
+2026-10-17,Rochdale,A. Flint,s-77yt60bz6k3rqv316v9qxxyad,90,,Goal
+2026-10-17,Salford City,M. Langstaff,s-abtmu970lml2twcop8ydjlb3e,17,,Goal
+2026-10-17,Salford City,M. Langstaff,s-abtmu970lml2twcop8ydjlb3e,50,,Goal
+2026-10-17,Shrewsbury Town,G. Lloyd,s-8e7i5qtbmz3ikj050mf4ef4h6,77,,Penalty
+2026-10-17,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,5,,Goal
+2026-10-17,Tranmere Rovers,W. Vaulks,s-2gf1wld07zyiuvq7iikfrvoid,22,,Goal
+2026-10-17,Walsall,T. Sodje,s-9zv54763h9x55ebvx8f2nb2wa,55,,Goal
+2026-10-17,York City,O. Pearce,s-agnanpw95qshgbtgngb88ywh5,4,,Goal
+2026-10-20,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,62,,Goal
+2026-10-20,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,90,,Goal
+2026-10-20,Bristol Rovers,J. Sparkes,s-c1hj1hth3xj2f0ax3x6fdwj8q,57,,Goal
+2026-10-20,Cheltenham Town,J. Lynch,s-4e1c6yk50fl8hnwv6u1132j85,17,,Own Goal
+2026-10-20,Cheltenham Town,K. Otchere,s-dr4u42ah4ht2jk6nocd4mn9jo,25,,Goal
+2026-10-20,Cheltenham Town,J. Evans,s-4s13qd35rj0ecagjwo1ola0ic,39,,Goal
+2026-10-20,Cheltenham Town,F. Willcox,s-cs55ereghay5rodso1iet09p0,80,,Goal
+2026-10-20,Chesterfield,D. Markanday,s-2ws74z0vjuq4vdt4575cgjbsa,29,,Goal
+2026-10-20,Colchester United,B. Perry,s-1y93e0p1pscaeceqp1f6tdclw,82,,Goal
+2026-10-20,Crawley Town,A. Adeyemo,s-d6yqv7j959j2oefwn5swvkr9w,4,,Goal
+2026-10-20,Crawley Town,D. Morgan,s-1pf1brmfv39idwq6loliy7iay,85,,Goal
+2026-10-20,Exeter City,A. Scully,s-cgzdrqjj6k0ty0k8oc108hp0p,21,,Penalty
+2026-10-20,Exeter City,R. Cole,s-f44tpdzk9ocv1i1xn0pa7ehux,90,4,Goal
+2026-10-20,Fleetwood Town,C. Evans,s-7bnx6cs1qni5zjkz683rdy1g5,50,,Goal
+2026-10-20,Fleetwood Town,C. Evans,s-7bnx6cs1qni5zjkz683rdy1g5,65,,Penalty
+2026-10-20,Gillingham,R. Hale,s-b80wetkfsy6m7s189x6mfx2ax,42,,Penalty
+2026-10-20,Grimsby Town,K. Green,s-4x6rka28bs12zoi2tdcg6kvyt,57,,Goal
+2026-10-20,Grimsby Town,J. Walker,s-1e6qs4550y9uy1h6iqirmwhxx,72,,Goal
+2026-10-20,Newport County,H. Biggins,s-4ltpx62a5n6r3v48gcax3wmh,28,,Penalty
+2026-10-20,Newport County,G. Garner,s-8d6o15wvepi7do7e0ubjeoga2,54,,Goal
+2026-10-20,Port Vale,K. Figueroa,s-9u8fzxkodzyp16zib29y513pw,66,,Goal
+2026-10-20,Rochdale,D. Brown,s-9bnyw1svvwgea6p4bkb4uymtw,38,,Goal
+2026-10-20,Rochdale,I. Henderson,s-6e3fjmz39auh7vx56cx2aeevp,88,,Goal
+2026-10-20,Rotherham United,A. Nemane,s-604ryg4jk82swmxnj9e40cxjp,12,,Goal
+2026-10-20,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,4,,Penalty
+2026-10-20,Salford City,D. Udoh,s-39neop6i8s2s1daatyo34hhw5,20,,Goal
+2026-10-20,Salford City,B. Wiredu,s-6tqiy5a5cfpfm90j8r5udl8bu,6,,Goal
+2026-10-20,Shrewsbury Town,J. Davison,s-84qumtphadlmwu0bikkii936y,62,,Goal
+2026-10-20,Shrewsbury Town,G. Lloyd,s-8e7i5qtbmz3ikj050mf4ef4h6,82,,Goal
+2026-10-20,Shrewsbury Town,J. Davison,s-84qumtphadlmwu0bikkii936y,90,4,Goal
+2026-10-20,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,35,,Goal
+2026-10-20,Swindon Town,A. Drinan,s-ech3uul4ir5vnsylgfavbal7t,37,,Goal
+2026-10-20,Swindon Town,M. Clark,s-2asjeedy6igcuixqktdmk5k2x,8,,Goal
+2026-10-20,Tranmere Rovers,B. Faulkner,s-7h2tu0w2gdzma1pzi4jhcsavo,37,,Goal
+2026-10-20,Walsall,T. Sodje,s-9zv54763h9x55ebvx8f2nb2wa,21,,Goal
+2026-10-20,Walsall,A. Pressley,s-f4ef7in4fxoylsy29anhgqep5,26,,Goal
+2026-10-20,Walsall,A. Pressley,s-f4ef7in4fxoylsy29anhgqep5,58,,Penalty
+2026-10-20,York City,O. Pearce,s-agnanpw95qshgbtgngb88ywh5,90,,Goal
+2026-10-24,Accrington Stanley,J. Woods,s-dv1g5fozbyj5r55grfp8x7uac,14,,Goal
+2026-10-24,Accrington Stanley,C. Warren,s-ca2vmlt7aho8z5ae9r5pl0opg,38,,Goal
+2026-10-24,Accrington Stanley,T. Walton,s-dbtmfmihfbxgujp62tu8o63u1,45,1,Goal
+2026-10-24,Accrington Stanley,T. Walton,s-dbtmfmihfbxgujp62tu8o63u1,51,,Goal
+2026-10-24,Accrington Stanley,A. Henderson,s-vkag8cx29v1b5wetozm6rp5g,66,,Goal
+2026-10-24,Barnet,K. Tshimanga,s-dzboc2cmovo7k3g70y5socpn9,20,,Goal
+2026-10-24,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,5,,Goal
+2026-10-24,Chesterfield,F. Bryden,s-arq2rpdmf4ljuysqbr40nsiz8,19,,Goal
+2026-10-24,Chesterfield,J. Koroma,s-307tfvtl56s1rf61x8kjevjzd,3,,Goal
+2026-10-24,Chesterfield,J. Stephenson,s-527eb62iroza8sd84ai3q893o,35,,Own Goal
+2026-10-24,Chesterfield,L. Mandeville,s-6clm6ketc6tz6qqfk4comf2ll,45,1,Goal
+2026-10-24,Chesterfield,T. Naylor,s-bsjaumnosxgswp4cwpzkl4tsl,6,,Goal
+2026-10-24,Crawley Town,D. Morgan,s-1pf1brmfv39idwq6loliy7iay,52,,Goal
+2026-10-24,Crewe Alexandra,C. McNeill,s-1ctamcqwnwsvsbmqaauvov8tm,57,,Goal
+2026-10-24,Exeter City,C. Cummins,s-aqrbu73wvu5cbtjokrie2ufx0,58,,Goal
+2026-10-24,Exeter City,L. Woodhouse,s-7jmz577mnnyl6gmikfb20tkpg,64,,Goal
+2026-10-24,Fleetwood Town,R. Coughlan,s-8kyksn3lwpmx2xqd1abtwdlka,61,,Goal
+2026-10-24,Gillingham,R. Hale,s-b80wetkfsy6m7s189x6mfx2ax,37,,Goal
+2026-10-24,Grimsby Town,I. Morgan,s-3zw3uj9zqca10oesz95aw6kno,54,,Penalty
+2026-10-24,Grimsby Town,G. Turi,s-3zt3gbb4alp6x28g3sv0bhv1m,63,,Goal
+2026-10-24,Grimsby Town,H. Rodgers,s-a2g77lv071rnz76ujh30364tl,7,,Goal
+2026-10-24,Grimsby Town,S. Finch,s-zriobwd2a6zks9r9lv4uqwpg,70,,Goal
+2026-10-24,Northampton Town,S. Hoskins,s-9ofafrg1dmb8a90ogdj3nnz6d,50,,Goal
+2026-10-24,Northampton Town,M. Warhurst,s-7g2jvlhxd1eu6j5aanika5c0k,9,,Goal
+2026-10-24,Oldham Athletic,M. Fondop,s-1wg80wp2dm65sm8f29x2w46ax,90,4,Goal
+2026-10-24,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,15,,Goal
+2026-10-24,Rotherham United,P. Mullin,s-dedo3aeufeif0l0zgwmx9nhed,18,,Goal
+2026-10-24,Rotherham United,T. Bradshaw,s-dvzwcp48c716rbiupvl5wu7dh,76,,Goal
+2026-10-24,Shrewsbury Town,J. Davison,s-84qumtphadlmwu0bikkii936y,24,,Goal
+2026-10-24,Shrewsbury Town,J. Ruffels,s-bpfs0cb4el73h4y1ragpyuw9h,59,,Goal
+2026-10-24,Shrewsbury Town,W. Boyle,s-3ul7pyapna7v0zr5ggabbbnx1,67,,Goal
+2026-10-24,Tranmere Rovers,W. Vaulks,s-2gf1wld07zyiuvq7iikfrvoid,60,,Goal
+2026-10-24,York City,Z. Johnson,s-c78ylkklt3uih8bk0dbvrthqs,54,,Goal
+2026-10-24,York City,A. Hunt,s-exa8t43pzbg72fke6ibkly82y,61,,Goal
+2026-10-31,Accrington Stanley,C. Warren,s-ca2vmlt7aho8z5ae9r5pl0opg,5,,Goal
+2026-10-31,Barnet,T. Knowles,s-5fqch6alo2epewa9vl33fm5wq,34,,Goal
+2026-10-31,Bristol Rovers,R. Russell-Denny,s-9vamehdr972otk3wdrccsp91w,84,,Goal
+2026-10-31,Cheltenham Town,C. McCann,s-1pvtzz67xdo2wonyds33h9iei,1,,Goal
+2026-10-31,Colchester United,J. Payne,s-evb6gpvuutmnisv9d12gs0xcl,35,,Penalty
+2026-10-31,Crawley Town,D. Orsi,s-csw6i5ceobus79rw3y5uaczu2,52,,Goal
+2026-10-31,Crewe Alexandra,Z. Williams,s-ccsiplg85gm3aokzhbkaezwno,85,,Own Goal
+2026-10-31,Exeter City,S. Cox,s-3lapm496pz9bbe7mgeezqncpg,34,,Goal
+2026-10-31,Fleetwood Town,A. Loupalo-Bi,s-h2aqtqhwna2b1f0u1ocy49g,37,,Goal
+2026-10-31,Fleetwood Town,R. Bennett,s-2sae52q45nbusskdsmzic8ftg,59,,Goal
+2026-10-31,Fleetwood Town,J. Robertson,s-bd33eqsf950amna6taf14fpck,90,,Goal
+2026-10-31,Gillingham,H. Waldock,s-74gnlzhsocr3xh66dknqozxuc,3,,Goal
+2026-10-31,Gillingham,A. Smith,s-7lfafwyzsrou0zoknaxnozdd6,80,,Goal
+2026-10-31,Grimsby Town,A. Cook,s-dz0c4z5rx225rb828ceeygdzp,13,,Goal
+2026-10-31,Grimsby Town,I. Morgan,s-3zw3uj9zqca10oesz95aw6kno,31,,Goal
+2026-10-31,Grimsby Town,C. McJannet,s-7tnkhs8wduhygtiybe9ba612h,75,,Goal
+2026-10-31,Grimsby Town,J. Andrews,s-coryktjpq320jp7kq61v88ley,78,,Goal
+2026-10-31,Grimsby Town,G. Turi,s-3zt3gbb4alp6x28g3sv0bhv1m,86,,Goal
+2026-10-31,Northampton Town,E. List,s-em4c95gqhy837kpw3sbx22961,90,2,Goal
+2026-10-31,Port Vale,G. Byers,s-6hrtxdf59nba5ietwyfe3b2t,11,,Penalty
+2026-10-31,Port Vale,O. Hernández,s-4ca71ufcoyg21mmzwq4i9tfit,2,,Goal
+2026-10-31,Port Vale,J. Lawrence-Gabriel,s-70mhl9132hz50ofzd13zaq1nt,22,,Goal
+2026-10-31,Port Vale,K. Figueroa,s-9u8fzxkodzyp16zib29y513pw,86,,Goal
+2026-10-31,Rochdale,I. Henderson,s-6e3fjmz39auh7vx56cx2aeevp,82,,Goal
+2026-10-31,Rochdale,C. Tasker,s-34spdpyb3k4jhiojqpwpffk0k,90,4,Goal
+2026-10-31,Rotherham United,D. Hall,s-b1zeqxuwoyzx1eukf18ptdgq,87,,Goal
+2026-10-31,Salford City,L. Garbutt,s-7bz7gs7l4qzyteohkoi41swk5,66,,Goal
+2026-10-31,Salford City,W. Aimson,s-35f2se8cf2zmpxl45zulorpat,88,,Goal
+2026-10-31,Shrewsbury Town,G. Lloyd,s-8e7i5qtbmz3ikj050mf4ef4h6,59,,Penalty
+2026-10-31,Swindon Town,J. Thomson,s-8d5i8wn1irl8sejfhr7mo4nop,45,3,Goal
+2026-10-31,Swindon Town,J. Hungbo,s-3cxuoubom7dryuebyn850xvmy,81,,Goal
+2026-10-31,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,23,,Goal
+2026-10-31,Tranmere Rovers,D. Jones,s-cstdv7oams463h03v956rwums,39,,Goal
+2026-10-31,Tranmere Rovers,C. Whitaker,s-4l0n6z5cqyv9kwxqhwaiyib1m,45,3,Goal
+2026-10-31,Walsall,D. Skura,s-bqmuqetfybqp3bkcbx8wkqm1g,3,,Goal
+2026-10-31,Walsall,A. Pressley,s-f4ef7in4fxoylsy29anhgqep5,79,,Goal
+2026-10-31,Walsall,C. Clarke,s-1c7s50l55ob9rmsbwnscyo5xw,90,6,Goal
+2026-10-31,York City,A. Hunt,s-exa8t43pzbg72fke6ibkly82y,18,,Goal
+2026-10-31,York City,J. Hunt,s-dwbbiqw9923azm3rpg2m8aqj9,28,,Goal
